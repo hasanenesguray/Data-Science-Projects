@@ -1,0 +1,381 @@
+round_number,league_name,name,starting_at,home_team_name,away_team_name,home_team_goals,away_team_goals
+1,Premier League,Burnley vs Manchester City,8/11/2023,Burnley,Manchester City,0,3
+1,Premier League,Arsenal vs Nottingham Forest,8/12/2023,Arsenal,Nottingham Forest,2,1
+1,Premier League,AFC Bournemouth vs West Ham United,8/12/2023,AFC Bournemouth,West Ham United,1,1
+1,Premier League,Brighton & Hove Albion vs Luton Town,8/12/2023,Brighton & Hove Albion,Luton Town,4,1
+1,Premier League,Everton vs Fulham,8/12/2023,Everton,Fulham,0,1
+1,Premier League,Sheffield United vs Crystal Palace,8/12/2023,Sheffield United,Crystal Palace,0,1
+1,Premier League,Newcastle United vs Aston Villa,8/12/2023,Newcastle United,Aston Villa,5,1
+1,Premier League,Brentford vs Tottenham Hotspur,8/13/2023,Brentford,Tottenham Hotspur,2,2
+1,Premier League,Chelsea vs Liverpool,8/13/2023,Chelsea,Liverpool,1,1
+1,Premier League,Manchester United vs Wolverhampton Wanderers,8/14/2023,Manchester United,Wolverhampton Wanderers,1,0
+2,Premier League,Nottingham Forest vs Sheffield United,8/18/2023,Nottingham Forest,Sheffield United,2,1
+2,Premier League,Fulham vs Brentford,8/19/2023,Fulham,Brentford,0,3
+2,Premier League,Liverpool vs AFC Bournemouth,8/19/2023,Liverpool,AFC Bournemouth,3,1
+2,Premier League,Wolverhampton Wanderers vs Brighton & Hove Albion,8/19/2023,Wolverhampton Wanderers,Brighton & Hove Albion,1,4
+2,Premier League,Tottenham Hotspur vs Manchester United,8/19/2023,Tottenham Hotspur,Manchester United,2,0
+2,Premier League,Manchester City vs Newcastle United,8/19/2023,Manchester City,Newcastle United,1,0
+2,Premier League,Aston Villa vs Everton,8/20/2023,Aston Villa,Everton,4,0
+2,Premier League,West Ham United vs Chelsea,8/20/2023,West Ham United,Chelsea,3,1
+2,Premier League,Crystal Palace vs Arsenal,8/21/2023,Crystal Palace,Arsenal,0,1
+3,Premier League,Chelsea vs Luton Town,8/25/2023,Chelsea,Luton Town,3,0
+3,Premier League,AFC Bournemouth vs Tottenham Hotspur,8/26/2023,AFC Bournemouth,Tottenham Hotspur,0,2
+3,Premier League,Arsenal vs Fulham,8/26/2023,Arsenal,Fulham,2,2
+3,Premier League,Brentford vs Crystal Palace,8/26/2023,Brentford,Crystal Palace,1,1
+3,Premier League,Everton vs Wolverhampton Wanderers,8/26/2023,Everton,Wolverhampton Wanderers,0,1
+3,Premier League,Manchester United vs Nottingham Forest,8/26/2023,Manchester United,Nottingham Forest,3,2
+3,Premier League,Brighton & Hove Albion vs West Ham United,8/26/2023,Brighton & Hove Albion,West Ham United,1,3
+3,Premier League,Burnley vs Aston Villa,8/27/2023,Burnley,Aston Villa,1,3
+3,Premier League,Sheffield United vs Manchester City,8/27/2023,Sheffield United,Manchester City,1,2
+3,Premier League,Newcastle United vs Liverpool,8/27/2023,Newcastle United,Liverpool,1,2
+4,Premier League,Luton Town vs West Ham United,9/1/2023,Luton Town,West Ham United,1,2
+4,Premier League,Sheffield United vs Everton,9/2/2023,Sheffield United,Everton,2,2
+4,Premier League,Brentford vs AFC Bournemouth,9/2/2023,Brentford,AFC Bournemouth,2,2
+4,Premier League,Burnley vs Tottenham Hotspur,9/2/2023,Burnley,Tottenham Hotspur,2,5
+4,Premier League,Chelsea vs Nottingham Forest,9/2/2023,Chelsea,Nottingham Forest,0,1
+4,Premier League,Manchester City vs Fulham,9/2/2023,Manchester City,Fulham,5,1
+4,Premier League,Brighton & Hove Albion vs Newcastle United,9/2/2023,Brighton & Hove Albion,Newcastle United,3,1
+4,Premier League,Crystal Palace vs Wolverhampton Wanderers,9/3/2023,Crystal Palace,Wolverhampton Wanderers,3,2
+4,Premier League,Liverpool vs Aston Villa,9/3/2023,Liverpool,Aston Villa,3,0
+4,Premier League,Arsenal vs Manchester United,9/3/2023,Arsenal,Manchester United,3,1
+5,Premier League,Wolverhampton Wanderers vs Liverpool,9/16/2023,Wolverhampton Wanderers,Liverpool,1,3
+5,Premier League,Aston Villa vs Crystal Palace,9/16/2023,Aston Villa,Crystal Palace,3,1
+5,Premier League,Fulham vs Luton Town,9/16/2023,Fulham,Luton Town,1,0
+5,Premier League,Manchester United vs Brighton & Hove Albion,9/16/2023,Manchester United,Brighton & Hove Albion,1,3
+5,Premier League,Tottenham Hotspur vs Sheffield United,9/16/2023,Tottenham Hotspur,Sheffield United,2,1
+5,Premier League,West Ham United vs Manchester City,9/16/2023,West Ham United,Manchester City,1,3
+5,Premier League,Newcastle United vs Brentford,9/16/2023,Newcastle United,Brentford,1,0
+5,Premier League,AFC Bournemouth vs Chelsea,9/17/2023,AFC Bournemouth,Chelsea,0,0
+5,Premier League,Everton vs Arsenal,9/17/2023,Everton,Arsenal,0,1
+5,Premier League,Nottingham Forest vs Burnley,9/18/2023,Nottingham Forest,Burnley,1,1
+6,Premier League,Crystal Palace vs Fulham,9/23/2023,Crystal Palace,Fulham,0,0
+6,Premier League,Luton Town vs Wolverhampton Wanderers,9/23/2023,Luton Town,Wolverhampton Wanderers,1,1
+6,Premier League,Manchester City vs Nottingham Forest,9/23/2023,Manchester City,Nottingham Forest,2,0
+6,Premier League,Brentford vs Everton,9/23/2023,Brentford,Everton,1,3
+6,Premier League,Burnley vs Manchester United,9/23/2023,Burnley,Manchester United,0,1
+6,Premier League,Arsenal vs Tottenham Hotspur,9/24/2023,Arsenal,Tottenham Hotspur,2,2
+6,Premier League,Brighton & Hove Albion vs AFC Bournemouth,9/24/2023,Brighton & Hove Albion,AFC Bournemouth,3,1
+6,Premier League,Chelsea vs Aston Villa,9/24/2023,Chelsea,Aston Villa,0,1
+6,Premier League,Liverpool vs West Ham United,9/24/2023,Liverpool,West Ham United,3,1
+6,Premier League,Sheffield United vs Newcastle United,9/24/2023,Sheffield United,Newcastle United,0,8
+7,Premier League,Aston Villa vs Brighton & Hove Albion,9/30/2023,Aston Villa,Brighton & Hove Albion,6,1
+7,Premier League,AFC Bournemouth vs Arsenal,9/30/2023,AFC Bournemouth,Arsenal,0,4
+7,Premier League,Everton vs Luton Town,9/30/2023,Everton,Luton Town,1,2
+7,Premier League,Manchester United vs Crystal Palace,9/30/2023,Manchester United,Crystal Palace,0,1
+7,Premier League,Newcastle United vs Burnley,9/30/2023,Newcastle United,Burnley,2,0
+7,Premier League,West Ham United vs Sheffield United,9/30/2023,West Ham United,Sheffield United,2,0
+7,Premier League,Wolverhampton Wanderers vs Manchester City,9/30/2023,Wolverhampton Wanderers,Manchester City,2,1
+7,Premier League,Tottenham Hotspur vs Liverpool,9/30/2023,Tottenham Hotspur,Liverpool,2,1
+7,Premier League,Nottingham Forest vs Brentford,10/1/2023,Nottingham Forest,Brentford,1,1
+7,Premier League,Fulham vs Chelsea,10/2/2023,Fulham,Chelsea,0,2
+2,Premier League,Luton Town vs Burnley,10/3/2023,Luton Town,Burnley,1,2
+8,Premier League,Luton Town vs Tottenham Hotspur,10/7/2023,Luton Town,Tottenham Hotspur,0,1
+8,Premier League,Burnley vs Chelsea,10/7/2023,Burnley,Chelsea,1,4
+8,Premier League,Everton vs AFC Bournemouth,10/7/2023,Everton,AFC Bournemouth,3,0
+8,Premier League,Fulham vs Sheffield United,10/7/2023,Fulham,Sheffield United,3,1
+8,Premier League,Manchester United vs Brentford,10/7/2023,Manchester United,Brentford,2,1
+8,Premier League,Crystal Palace vs Nottingham Forest,10/7/2023,Crystal Palace,Nottingham Forest,0,0
+8,Premier League,Brighton & Hove Albion vs Liverpool,10/8/2023,Brighton & Hove Albion,Liverpool,2,2
+8,Premier League,West Ham United vs Newcastle United,10/8/2023,West Ham United,Newcastle United,2,2
+8,Premier League,Wolverhampton Wanderers vs Aston Villa,10/8/2023,Wolverhampton Wanderers,Aston Villa,1,1
+8,Premier League,Arsenal vs Manchester City,10/8/2023,Arsenal,Manchester City,1,0
+9,Premier League,Liverpool vs Everton,10/21/2023,Liverpool,Everton,2,0
+9,Premier League,AFC Bournemouth vs Wolverhampton Wanderers,10/21/2023,AFC Bournemouth,Wolverhampton Wanderers,1,2
+9,Premier League,Brentford vs Burnley,10/21/2023,Brentford,Burnley,3,0
+9,Premier League,Manchester City vs Brighton & Hove Albion,10/21/2023,Manchester City,Brighton & Hove Albion,2,1
+9,Premier League,Newcastle United vs Crystal Palace,10/21/2023,Newcastle United,Crystal Palace,4,0
+9,Premier League,Nottingham Forest vs Luton Town,10/21/2023,Nottingham Forest,Luton Town,2,2
+9,Premier League,Chelsea vs Arsenal,10/21/2023,Chelsea,Arsenal,2,2
+9,Premier League,Sheffield United vs Manchester United,10/21/2023,Sheffield United,Manchester United,1,2
+9,Premier League,Aston Villa vs West Ham United,10/22/2023,Aston Villa,West Ham United,4,1
+9,Premier League,Tottenham Hotspur vs Fulham,10/23/2023,Tottenham Hotspur,Fulham,2,0
+10,Premier League,Crystal Palace vs Tottenham Hotspur,10/27/2023,Crystal Palace,Tottenham Hotspur,1,2
+10,Premier League,Chelsea vs Brentford,10/28/2023,Chelsea,Brentford,0,2
+10,Premier League,AFC Bournemouth vs Burnley,10/28/2023,AFC Bournemouth,Burnley,2,1
+10,Premier League,Arsenal vs Sheffield United,10/28/2023,Arsenal,Sheffield United,5,0
+10,Premier League,Wolverhampton Wanderers vs Newcastle United,10/28/2023,Wolverhampton Wanderers,Newcastle United,2,2
+10,Premier League,West Ham United vs Everton,10/29/2023,West Ham United,Everton,0,1
+10,Premier League,Aston Villa vs Luton Town,10/29/2023,Aston Villa,Luton Town,3,1
+10,Premier League,Brighton & Hove Albion vs Fulham,10/29/2023,Brighton & Hove Albion,Fulham,1,1
+10,Premier League,Liverpool vs Nottingham Forest,10/29/2023,Liverpool,Nottingham Forest,3,0
+10,Premier League,Manchester United vs Manchester City,10/29/2023,Manchester United,Manchester City,0,3
+11,Premier League,Fulham vs Manchester United,11/4/2023,Fulham,Manchester United,0,1
+11,Premier League,Brentford vs West Ham United,11/4/2023,Brentford,West Ham United,3,2
+11,Premier League,Burnley vs Crystal Palace,11/4/2023,Burnley,Crystal Palace,0,2
+11,Premier League,Everton vs Brighton & Hove Albion,11/4/2023,Everton,Brighton & Hove Albion,1,1
+11,Premier League,Manchester City vs AFC Bournemouth,11/4/2023,Manchester City,AFC Bournemouth,6,1
+11,Premier League,Sheffield United vs Wolverhampton Wanderers,11/4/2023,Sheffield United,Wolverhampton Wanderers,2,1
+11,Premier League,Newcastle United vs Arsenal,11/4/2023,Newcastle United,Arsenal,1,0
+11,Premier League,Nottingham Forest vs Aston Villa,11/5/2023,Nottingham Forest,Aston Villa,2,0
+11,Premier League,Luton Town vs Liverpool,11/5/2023,Luton Town,Liverpool,1,1
+11,Premier League,Tottenham Hotspur vs Chelsea,11/6/2023,Tottenham Hotspur,Chelsea,1,4
+12,Premier League,Wolverhampton Wanderers vs Tottenham Hotspur,11/11/2023,Wolverhampton Wanderers,Tottenham Hotspur,2,1
+12,Premier League,Arsenal vs Burnley,11/11/2023,Arsenal,Burnley,3,1
+12,Premier League,Crystal Palace vs Everton,11/11/2023,Crystal Palace,Everton,2,3
+12,Premier League,Manchester United vs Luton Town,11/11/2023,Manchester United,Luton Town,1,0
+12,Premier League,AFC Bournemouth vs Newcastle United,11/11/2023,AFC Bournemouth,Newcastle United,2,0
+12,Premier League,Aston Villa vs Fulham,11/12/2023,Aston Villa,Fulham,3,1
+12,Premier League,Brighton & Hove Albion vs Sheffield United,11/12/2023,Brighton & Hove Albion,Sheffield United,1,1
+12,Premier League,Liverpool vs Brentford,11/12/2023,Liverpool,Brentford,3,0
+12,Premier League,West Ham United vs Nottingham Forest,11/12/2023,West Ham United,Nottingham Forest,3,2
+12,Premier League,Chelsea vs Manchester City,11/12/2023,Chelsea,Manchester City,4,4
+13,Premier League,Manchester City vs Liverpool,11/25/2023,Manchester City,Liverpool,1,1
+13,Premier League,Burnley vs West Ham United,11/25/2023,Burnley,West Ham United,1,2
+13,Premier League,Luton Town vs Crystal Palace,11/25/2023,Luton Town,Crystal Palace,2,1
+13,Premier League,Newcastle United vs Chelsea,11/25/2023,Newcastle United,Chelsea,4,1
+13,Premier League,Nottingham Forest vs Brighton & Hove Albion,11/25/2023,Nottingham Forest,Brighton & Hove Albion,2,3
+13,Premier League,Sheffield United vs AFC Bournemouth,11/25/2023,Sheffield United,AFC Bournemouth,1,3
+13,Premier League,Brentford vs Arsenal,11/25/2023,Brentford,Arsenal,0,1
+13,Premier League,Tottenham Hotspur vs Aston Villa,11/26/2023,Tottenham Hotspur,Aston Villa,1,2
+13,Premier League,Everton vs Manchester United,11/26/2023,Everton,Manchester United,0,3
+13,Premier League,Fulham vs Wolverhampton Wanderers,11/27/2023,Fulham,Wolverhampton Wanderers,3,2
+14,Premier League,Arsenal vs Wolverhampton Wanderers,12/2/2023,Arsenal,Wolverhampton Wanderers,2,1
+14,Premier League,Brentford vs Luton Town,12/2/2023,Brentford,Luton Town,3,1
+14,Premier League,Burnley vs Sheffield United,12/2/2023,Burnley,Sheffield United,5,0
+14,Premier League,Nottingham Forest vs Everton,12/2/2023,Nottingham Forest,Everton,0,1
+14,Premier League,Newcastle United vs Manchester United,12/2/2023,Newcastle United,Manchester United,1,0
+14,Premier League,AFC Bournemouth vs Aston Villa,12/3/2023,AFC Bournemouth,Aston Villa,2,2
+14,Premier League,Chelsea vs Brighton & Hove Albion,12/3/2023,Chelsea,Brighton & Hove Albion,3,2
+14,Premier League,Liverpool vs Fulham,12/3/2023,Liverpool,Fulham,4,3
+14,Premier League,West Ham United vs Crystal Palace,12/3/2023,West Ham United,Crystal Palace,1,1
+14,Premier League,Manchester City vs Tottenham Hotspur,12/3/2023,Manchester City,Tottenham Hotspur,3,3
+15,Premier League,Wolverhampton Wanderers vs Burnley,12/5/2023,Wolverhampton Wanderers,Burnley,1,0
+15,Premier League,Luton Town vs Arsenal,12/5/2023,Luton Town,Arsenal,3,4
+15,Premier League,Brighton & Hove Albion vs Brentford,12/6/2023,Brighton & Hove Albion,Brentford,2,1
+15,Premier League,Fulham vs Nottingham Forest,12/6/2023,Fulham,Nottingham Forest,5,0
+15,Premier League,Sheffield United vs Liverpool,12/6/2023,Sheffield United,Liverpool,0,2
+15,Premier League,Crystal Palace vs AFC Bournemouth,12/6/2023,Crystal Palace,AFC Bournemouth,0,2
+15,Premier League,Aston Villa vs Manchester City,12/6/2023,Aston Villa,Manchester City,1,0
+15,Premier League,Manchester United vs Chelsea,12/6/2023,Manchester United,Chelsea,2,1
+15,Premier League,Everton vs Newcastle United,12/7/2023,Everton,Newcastle United,3,0
+15,Premier League,Tottenham Hotspur vs West Ham United,12/7/2023,Tottenham Hotspur,West Ham United,1,2
+16,Premier League,Crystal Palace vs Liverpool,12/9/2023,Crystal Palace,Liverpool,1,2
+16,Premier League,Brighton & Hove Albion vs Burnley,12/9/2023,Brighton & Hove Albion,Burnley,1,1
+16,Premier League,Manchester United vs AFC Bournemouth,12/9/2023,Manchester United,AFC Bournemouth,0,3
+16,Premier League,Sheffield United vs Brentford,12/9/2023,Sheffield United,Brentford,1,0
+16,Premier League,Wolverhampton Wanderers vs Nottingham Forest,12/9/2023,Wolverhampton Wanderers,Nottingham Forest,1,1
+16,Premier League,Aston Villa vs Arsenal,12/9/2023,Aston Villa,Arsenal,1,0
+16,Premier League,Everton vs Chelsea,12/10/2023,Everton,Chelsea,2,0
+16,Premier League,Fulham vs West Ham United,12/10/2023,Fulham,West Ham United,5,0
+16,Premier League,Luton Town vs Manchester City,12/10/2023,Luton Town,Manchester City,1,2
+16,Premier League,Tottenham Hotspur vs Newcastle United,12/10/2023,Tottenham Hotspur,Newcastle United,4,1
+17,Premier League,Nottingham Forest vs Tottenham Hotspur,12/15/2023,Nottingham Forest,Tottenham Hotspur,0,2
+17,Premier League,Chelsea vs Sheffield United,12/16/2023,Chelsea,Sheffield United,2,0
+17,Premier League,Manchester City vs Crystal Palace,12/16/2023,Manchester City,Crystal Palace,2,2
+17,Premier League,Newcastle United vs Fulham,12/16/2023,Newcastle United,Fulham,3,0
+17,Premier League,Burnley vs Everton,12/16/2023,Burnley,Everton,0,2
+17,Premier League,Arsenal vs Brighton & Hove Albion,12/17/2023,Arsenal,Brighton & Hove Albion,2,0
+17,Premier League,Brentford vs Aston Villa,12/17/2023,Brentford,Aston Villa,1,2
+17,Premier League,West Ham United vs Wolverhampton Wanderers,12/17/2023,West Ham United,Wolverhampton Wanderers,3,0
+17,Premier League,Liverpool vs Manchester United,12/17/2023,Liverpool,Manchester United,0,0
+18,Premier League,Crystal Palace vs Brighton & Hove Albion,12/21/2023,Crystal Palace,Brighton & Hove Albion,1,1
+18,Premier League,Aston Villa vs Sheffield United,12/22/2023,Aston Villa,Sheffield United,1,1
+18,Premier League,West Ham United vs Manchester United,12/23/2023,West Ham United,Manchester United,2,0
+18,Premier League,Fulham vs Burnley,12/23/2023,Fulham,Burnley,0,2
+18,Premier League,Luton Town vs Newcastle United,12/23/2023,Luton Town,Newcastle United,1,0
+18,Premier League,Nottingham Forest vs AFC Bournemouth,12/23/2023,Nottingham Forest,AFC Bournemouth,2,3
+18,Premier League,Tottenham Hotspur vs Everton,12/23/2023,Tottenham Hotspur,Everton,2,1
+18,Premier League,Liverpool vs Arsenal,12/23/2023,Liverpool,Arsenal,1,1
+18,Premier League,Wolverhampton Wanderers vs Chelsea,12/24/2023,Wolverhampton Wanderers,Chelsea,2,1
+19,Premier League,Newcastle United vs Nottingham Forest,12/26/2023,Newcastle United,Nottingham Forest,1,3
+19,Premier League,AFC Bournemouth vs Fulham,12/26/2023,AFC Bournemouth,Fulham,3,0
+19,Premier League,Sheffield United vs Luton Town,12/26/2023,Sheffield United,Luton Town,2,3
+19,Premier League,Burnley vs Liverpool,12/26/2023,Burnley,Liverpool,0,2
+19,Premier League,Manchester United vs Aston Villa,12/26/2023,Manchester United,Aston Villa,3,2
+19,Premier League,Brentford vs Wolverhampton Wanderers,12/27/2023,Brentford,Wolverhampton Wanderers,1,4
+19,Premier League,Chelsea vs Crystal Palace,12/27/2023,Chelsea,Crystal Palace,2,1
+19,Premier League,Everton vs Manchester City,12/27/2023,Everton,Manchester City,1,3
+19,Premier League,Brighton & Hove Albion vs Tottenham Hotspur,12/28/2023,Brighton & Hove Albion,Tottenham Hotspur,4,2
+19,Premier League,Arsenal vs West Ham United,12/28/2023,Arsenal,West Ham United,0,2
+20,Premier League,Luton Town vs Chelsea,12/30/2023,Luton Town,Chelsea,2,3
+20,Premier League,Aston Villa vs Burnley,12/30/2023,Aston Villa,Burnley,3,2
+20,Premier League,Crystal Palace vs Brentford,12/30/2023,Crystal Palace,Brentford,3,1
+20,Premier League,Manchester City vs Sheffield United,12/30/2023,Manchester City,Sheffield United,2,0
+20,Premier League,Wolverhampton Wanderers vs Everton,12/30/2023,Wolverhampton Wanderers,Everton,3,0
+20,Premier League,Nottingham Forest vs Manchester United,12/30/2023,Nottingham Forest,Manchester United,2,1
+20,Premier League,Fulham vs Arsenal,12/31/2023,Fulham,Arsenal,2,1
+20,Premier League,Tottenham Hotspur vs AFC Bournemouth,12/31/2023,Tottenham Hotspur,AFC Bournemouth,3,1
+20,Premier League,Liverpool vs Newcastle United,1/1/2024,Liverpool,Newcastle United,4,2
+20,Premier League,West Ham United vs Brighton & Hove Albion,1/2/2024,West Ham United,Brighton & Hove Albion,0,0
+21,Premier League,Burnley vs Luton Town,1/12/2024,Burnley,Luton Town,1,1
+21,Premier League,Chelsea vs Fulham,1/13/2024,Chelsea,Fulham,1,0
+21,Premier League,Newcastle United vs Manchester City,1/13/2024,Newcastle United,Manchester City,2,3
+21,Premier League,Everton vs Aston Villa,1/14/2024,Everton,Aston Villa,0,0
+21,Premier League,Manchester United vs Tottenham Hotspur,1/14/2024,Manchester United,Tottenham Hotspur,2,2
+21,Premier League,Arsenal vs Crystal Palace,1/20/2024,Arsenal,Crystal Palace,5,0
+21,Premier League,Brentford vs Nottingham Forest,1/20/2024,Brentford,Nottingham Forest,3,2
+21,Premier League,Sheffield United vs West Ham United,1/21/2024,Sheffield United,West Ham United,2,2
+21,Premier League,AFC Bournemouth vs Liverpool,1/21/2024,AFC Bournemouth,Liverpool,0,4
+21,Premier League,Brighton & Hove Albion vs Wolverhampton Wanderers,1/22/2024,Brighton & Hove Albion,Wolverhampton Wanderers,0,0
+22,Premier League,Nottingham Forest vs Arsenal,1/30/2024,Nottingham Forest,Arsenal,1,2
+22,Premier League,Fulham vs Everton,1/30/2024,Fulham,Everton,0,0
+22,Premier League,Luton Town vs Brighton & Hove Albion,1/30/2024,Luton Town,Brighton & Hove Albion,4,0
+22,Premier League,Crystal Palace vs Sheffield United,1/30/2024,Crystal Palace,Sheffield United,3,2
+22,Premier League,Aston Villa vs Newcastle United,1/30/2024,Aston Villa,Newcastle United,1,3
+22,Premier League,Tottenham Hotspur vs Brentford,1/31/2024,Tottenham Hotspur,Brentford,3,2
+22,Premier League,Manchester City vs Burnley,1/31/2024,Manchester City,Burnley,3,1
+22,Premier League,Liverpool vs Chelsea,1/31/2024,Liverpool,Chelsea,4,1
+22,Premier League,West Ham United vs AFC Bournemouth,2/1/2024,West Ham United,AFC Bournemouth,1,1
+22,Premier League,Wolverhampton Wanderers vs Manchester United,2/1/2024,Wolverhampton Wanderers,Manchester United,3,4
+23,Premier League,Everton vs Tottenham Hotspur,2/3/2024,Everton,Tottenham Hotspur,2,2
+23,Premier League,Brighton & Hove Albion vs Crystal Palace,2/3/2024,Brighton & Hove Albion,Crystal Palace,4,1
+23,Premier League,Burnley vs Fulham,2/3/2024,Burnley,Fulham,2,2
+23,Premier League,Newcastle United vs Luton Town,2/3/2024,Newcastle United,Luton Town,4,4
+23,Premier League,Sheffield United vs Aston Villa,2/3/2024,Sheffield United,Aston Villa,0,5
+23,Premier League,AFC Bournemouth vs Nottingham Forest,2/4/2024,AFC Bournemouth,Nottingham Forest,1,1
+23,Premier League,Chelsea vs Wolverhampton Wanderers,2/4/2024,Chelsea,Wolverhampton Wanderers,2,4
+23,Premier League,Manchester United vs West Ham United,2/4/2024,Manchester United,West Ham United,3,0
+23,Premier League,Arsenal vs Liverpool,2/4/2024,Arsenal,Liverpool,3,1
+23,Premier League,Brentford vs Manchester City,2/5/2024,Brentford,Manchester City,1,3
+24,Premier League,Manchester City vs Everton,2/10/2024,Manchester City,Everton,2,0
+24,Premier League,Fulham vs AFC Bournemouth,2/10/2024,Fulham,AFC Bournemouth,3,1
+24,Premier League,Liverpool vs Burnley,2/10/2024,Liverpool,Burnley,3,1
+24,Premier League,Luton Town vs Sheffield United,2/10/2024,Luton Town,Sheffield United,1,3
+24,Premier League,Tottenham Hotspur vs Brighton & Hove Albion,2/10/2024,Tottenham Hotspur,Brighton & Hove Albion,2,1
+24,Premier League,Wolverhampton Wanderers vs Brentford,2/10/2024,Wolverhampton Wanderers,Brentford,0,2
+24,Premier League,Nottingham Forest vs Newcastle United,2/10/2024,Nottingham Forest,Newcastle United,2,3
+24,Premier League,West Ham United vs Arsenal,2/11/2024,West Ham United,Arsenal,0,6
+24,Premier League,Aston Villa vs Manchester United,2/11/2024,Aston Villa,Manchester United,1,2
+24,Premier League,Crystal Palace vs Chelsea,2/12/2024,Crystal Palace,Chelsea,1,3
+25,Premier League,Brentford vs Liverpool,2/17/2024,Brentford,Liverpool,1,4
+25,Premier League,Burnley vs Arsenal,2/17/2024,Burnley,Arsenal,0,5
+25,Premier League,Fulham vs Aston Villa,2/17/2024,Fulham,Aston Villa,1,2
+25,Premier League,Newcastle United vs AFC Bournemouth,2/17/2024,Newcastle United,AFC Bournemouth,2,2
+25,Premier League,Nottingham Forest vs West Ham United,2/17/2024,Nottingham Forest,West Ham United,2,0
+25,Premier League,Tottenham Hotspur vs Wolverhampton Wanderers,2/17/2024,Tottenham Hotspur,Wolverhampton Wanderers,1,2
+25,Premier League,Manchester City vs Chelsea,2/17/2024,Manchester City,Chelsea,1,1
+25,Premier League,Sheffield United vs Brighton & Hove Albion,2/18/2024,Sheffield United,Brighton & Hove Albion,0,5
+25,Premier League,Luton Town vs Manchester United,2/18/2024,Luton Town,Manchester United,1,2
+25,Premier League,Everton vs Crystal Palace,2/19/2024,Everton,Crystal Palace,1,1
+18,Premier League,Manchester City vs Brentford,2/20/2024,Manchester City,Brentford,1,0
+26,Premier League,Liverpool vs Luton Town,2/21/2024,Liverpool,Luton Town,4,1
+26,Premier League,Aston Villa vs Nottingham Forest,2/24/2024,Aston Villa,Nottingham Forest,4,2
+26,Premier League,Brighton & Hove Albion vs Everton,2/24/2024,Brighton & Hove Albion,Everton,1,1
+26,Premier League,Crystal Palace vs Burnley,2/24/2024,Crystal Palace,Burnley,3,0
+26,Premier League,Manchester United vs Fulham,2/24/2024,Manchester United,Fulham,1,2
+26,Premier League,AFC Bournemouth vs Manchester City,2/24/2024,AFC Bournemouth,Manchester City,0,1
+26,Premier League,Arsenal vs Newcastle United,2/24/2024,Arsenal,Newcastle United,4,1
+26,Premier League,Wolverhampton Wanderers vs Sheffield United,2/25/2024,Wolverhampton Wanderers,Sheffield United,1,0
+26,Premier League,West Ham United vs Brentford,2/26/2024,West Ham United,Brentford,4,2
+27,Premier League,Brentford vs Chelsea,3/2/2024,Brentford,Chelsea,2,2
+27,Premier League,Everton vs West Ham United,3/2/2024,Everton,West Ham United,1,3
+27,Premier League,Fulham vs Brighton & Hove Albion,3/2/2024,Fulham,Brighton & Hove Albion,3,0
+27,Premier League,Newcastle United vs Wolverhampton Wanderers,3/2/2024,Newcastle United,Wolverhampton Wanderers,3,0
+27,Premier League,Nottingham Forest vs Liverpool,3/2/2024,Nottingham Forest,Liverpool,0,1
+27,Premier League,Tottenham Hotspur vs Crystal Palace,3/2/2024,Tottenham Hotspur,Crystal Palace,3,1
+27,Premier League,Luton Town vs Aston Villa,3/2/2024,Luton Town,Aston Villa,2,3
+27,Premier League,Burnley vs AFC Bournemouth,3/3/2024,Burnley,AFC Bournemouth,0,2
+27,Premier League,Manchester City vs Manchester United,3/3/2024,Manchester City,Manchester United,3,1
+27,Premier League,Sheffield United vs Arsenal,3/4/2024,Sheffield United,Arsenal,0,6
+28,Premier League,Manchester United vs Everton,3/9/2024,Manchester United,Everton,2,0
+28,Premier League,AFC Bournemouth vs Sheffield United,3/9/2024,AFC Bournemouth,Sheffield United,2,2
+28,Premier League,Crystal Palace vs Luton Town,3/9/2024,Crystal Palace,Luton Town,1,1
+28,Premier League,Wolverhampton Wanderers vs Fulham,3/9/2024,Wolverhampton Wanderers,Fulham,2,1
+28,Premier League,Arsenal vs Brentford,3/9/2024,Arsenal,Brentford,2,1
+28,Premier League,Aston Villa vs Tottenham Hotspur,3/10/2024,Aston Villa,Tottenham Hotspur,0,4
+28,Premier League,Brighton & Hove Albion vs Nottingham Forest,3/10/2024,Brighton & Hove Albion,Nottingham Forest,1,0
+28,Premier League,West Ham United vs Burnley,3/10/2024,West Ham United,Burnley,2,2
+28,Premier League,Liverpool vs Manchester City,3/10/2024,Liverpool,Manchester City,1,1
+28,Premier League,Chelsea vs Newcastle United,3/11/2024,Chelsea,Newcastle United,3,2
+17,Premier League,AFC Bournemouth vs Luton Town,3/13/2024,AFC Bournemouth,Luton Town,4,3
+29,Premier League,Burnley vs Brentford,3/16/2024,Burnley,Brentford,2,1
+29,Premier League,Luton Town vs Nottingham Forest,3/16/2024,Luton Town,Nottingham Forest,1,1
+29,Premier League,Fulham vs Tottenham Hotspur,3/16/2024,Fulham,Tottenham Hotspur,3,0
+29,Premier League,West Ham United vs Aston Villa,3/17/2024,West Ham United,Aston Villa,1,1
+30,Premier League,Newcastle United vs West Ham United,3/30/2024,Newcastle United,West Ham United,4,3
+30,Premier League,AFC Bournemouth vs Everton,3/30/2024,AFC Bournemouth,Everton,2,1
+30,Premier League,Chelsea vs Burnley,3/30/2024,Chelsea,Burnley,2,2
+30,Premier League,Nottingham Forest vs Crystal Palace,3/30/2024,Nottingham Forest,Crystal Palace,1,1
+30,Premier League,Sheffield United vs Fulham,3/30/2024,Sheffield United,Fulham,3,3
+30,Premier League,Tottenham Hotspur vs Luton Town,3/30/2024,Tottenham Hotspur,Luton Town,2,1
+30,Premier League,Aston Villa vs Wolverhampton Wanderers,3/30/2024,Aston Villa,Wolverhampton Wanderers,2,0
+30,Premier League,Brentford vs Manchester United,3/30/2024,Brentford,Manchester United,1,1
+30,Premier League,Liverpool vs Brighton & Hove Albion,3/31/2024,Liverpool,Brighton & Hove Albion,2,1
+30,Premier League,Manchester City vs Arsenal,3/31/2024,Manchester City,Arsenal,0,0
+31,Premier League,Nottingham Forest vs Fulham,4/2/2024,Nottingham Forest,Fulham,3,1
+31,Premier League,Newcastle United vs Everton,4/2/2024,Newcastle United,Everton,1,1
+31,Premier League,AFC Bournemouth vs Crystal Palace,4/2/2024,AFC Bournemouth,Crystal Palace,1,0
+31,Premier League,Burnley vs Wolverhampton Wanderers,4/2/2024,Burnley,Wolverhampton Wanderers,1,1
+31,Premier League,West Ham United vs Tottenham Hotspur,4/2/2024,West Ham United,Tottenham Hotspur,1,1
+31,Premier League,Arsenal vs Luton Town,4/3/2024,Arsenal,Luton Town,2,0
+31,Premier League,Brentford vs Brighton & Hove Albion,4/3/2024,Brentford,Brighton & Hove Albion,0,0
+31,Premier League,Manchester City vs Aston Villa,4/3/2024,Manchester City,Aston Villa,4,1
+31,Premier League,Liverpool vs Sheffield United,4/4/2024,Liverpool,Sheffield United,3,1
+31,Premier League,Chelsea vs Manchester United,4/4/2024,Chelsea,Manchester United,4,3
+32,Premier League,Crystal Palace vs Manchester City,4/6/2024,Crystal Palace,Manchester City,2,4
+32,Premier League,Aston Villa vs Brentford,4/6/2024,Aston Villa,Brentford,3,3
+32,Premier League,Everton vs Burnley,4/6/2024,Everton,Burnley,1,0
+32,Premier League,Fulham vs Newcastle United,4/6/2024,Fulham,Newcastle United,0,1
+32,Premier League,Luton Town vs AFC Bournemouth,4/6/2024,Luton Town,AFC Bournemouth,2,1
+32,Premier League,Wolverhampton Wanderers vs West Ham United,4/6/2024,Wolverhampton Wanderers,West Ham United,1,2
+32,Premier League,Brighton & Hove Albion vs Arsenal,4/6/2024,Brighton & Hove Albion,Arsenal,0,3
+32,Premier League,Manchester United vs Liverpool,4/7/2024,Manchester United,Liverpool,2,2
+32,Premier League,Sheffield United vs Chelsea,4/7/2024,Sheffield United,Chelsea,2,2
+32,Premier League,Tottenham Hotspur vs Nottingham Forest,4/7/2024,Tottenham Hotspur,Nottingham Forest,3,1
+33,Premier League,Newcastle United vs Tottenham Hotspur,4/13/2024,Newcastle United,Tottenham Hotspur,4,0
+33,Premier League,Brentford vs Sheffield United,4/13/2024,Brentford,Sheffield United,2,0
+33,Premier League,Burnley vs Brighton & Hove Albion,4/13/2024,Burnley,Brighton & Hove Albion,1,1
+33,Premier League,Manchester City vs Luton Town,4/13/2024,Manchester City,Luton Town,5,1
+33,Premier League,Nottingham Forest vs Wolverhampton Wanderers,4/13/2024,Nottingham Forest,Wolverhampton Wanderers,2,2
+33,Premier League,AFC Bournemouth vs Manchester United,4/13/2024,AFC Bournemouth,Manchester United,2,2
+33,Premier League,Liverpool vs Crystal Palace,4/14/2024,Liverpool,Crystal Palace,0,1
+33,Premier League,West Ham United vs Fulham,4/14/2024,West Ham United,Fulham,0,2
+33,Premier League,Arsenal vs Aston Villa,4/14/2024,Arsenal,Aston Villa,0,2
+33,Premier League,Chelsea vs Everton,4/15/2024,Chelsea,Everton,6,0
+34,Premier League,Luton Town vs Brentford,4/20/2024,Luton Town,Brentford,1,5
+34,Premier League,Sheffield United vs Burnley,4/20/2024,Sheffield United,Burnley,1,4
+34,Premier League,Wolverhampton Wanderers vs Arsenal,4/20/2024,Wolverhampton Wanderers,Arsenal,0,2
+34,Premier League,Everton vs Nottingham Forest,4/21/2024,Everton,Nottingham Forest,2,0
+34,Premier League,Aston Villa vs AFC Bournemouth,4/21/2024,Aston Villa,AFC Bournemouth,3,1
+34,Premier League,Crystal Palace vs West Ham United,4/21/2024,Crystal Palace,West Ham United,5,2
+34,Premier League,Fulham vs Liverpool,4/21/2024,Fulham,Liverpool,1,3
+29,Premier League,Arsenal vs Chelsea,4/23/2024,Arsenal,Chelsea,5,0
+29,Premier League,Wolverhampton Wanderers vs AFC Bournemouth,4/24/2024,Wolverhampton Wanderers,AFC Bournemouth,0,1
+29,Premier League,Crystal Palace vs Newcastle United,4/24/2024,Crystal Palace,Newcastle United,2,0
+29,Premier League,Everton vs Liverpool,4/24/2024,Everton,Liverpool,2,0
+29,Premier League,Manchester United vs Sheffield United,4/24/2024,Manchester United,Sheffield United,4,2
+29,Premier League,Brighton & Hove Albion vs Manchester City,4/25/2024,Brighton & Hove Albion,Manchester City,0,4
+35,Premier League,West Ham United vs Liverpool,4/27/2024,West Ham United,Liverpool,2,2
+35,Premier League,Fulham vs Crystal Palace,4/27/2024,Fulham,Crystal Palace,1,1
+35,Premier League,Manchester United vs Burnley,4/27/2024,Manchester United,Burnley,1,1
+35,Premier League,Newcastle United vs Sheffield United,4/27/2024,Newcastle United,Sheffield United,5,1
+35,Premier League,Wolverhampton Wanderers vs Luton Town,4/27/2024,Wolverhampton Wanderers,Luton Town,2,1
+35,Premier League,Everton vs Brentford,4/27/2024,Everton,Brentford,1,0
+35,Premier League,Aston Villa vs Chelsea,4/27/2024,Aston Villa,Chelsea,2,2
+35,Premier League,AFC Bournemouth vs Brighton & Hove Albion,4/28/2024,AFC Bournemouth,Brighton & Hove Albion,3,0
+35,Premier League,Tottenham Hotspur vs Arsenal,4/28/2024,Tottenham Hotspur,Arsenal,2,3
+35,Premier League,Nottingham Forest vs Manchester City,4/28/2024,Nottingham Forest,Manchester City,0,2
+26,Premier League,Chelsea vs Tottenham Hotspur,5/2/2024,Chelsea,Tottenham Hotspur,2,0
+36,Premier League,Luton Town vs Everton,5/3/2024,Luton Town,Everton,1,1
+36,Premier League,Arsenal vs AFC Bournemouth,5/4/2024,Arsenal,AFC Bournemouth,3,0
+36,Premier League,Brentford vs Fulham,5/4/2024,Brentford,Fulham,0,0
+36,Premier League,Burnley vs Newcastle United,5/4/2024,Burnley,Newcastle United,1,4
+36,Premier League,Sheffield United vs Nottingham Forest,5/4/2024,Sheffield United,Nottingham Forest,1,3
+36,Premier League,Manchester City vs Wolverhampton Wanderers,5/4/2024,Manchester City,Wolverhampton Wanderers,5,1
+36,Premier League,Brighton & Hove Albion vs Aston Villa,5/5/2024,Brighton & Hove Albion,Aston Villa,1,0
+36,Premier League,Chelsea vs West Ham United,5/5/2024,Chelsea,West Ham United,5,0
+36,Premier League,Liverpool vs Tottenham Hotspur,5/5/2024,Liverpool,Tottenham Hotspur,4,2
+36,Premier League,Crystal Palace vs Manchester United,5/6/2024,Crystal Palace,Manchester United,4,0
+37,Premier League,Fulham vs Manchester City,5/11/2024,Fulham,Manchester City,0,4
+37,Premier League,AFC Bournemouth vs Brentford,5/11/2024,AFC Bournemouth,Brentford,1,2
+37,Premier League,Everton vs Sheffield United,5/11/2024,Everton,Sheffield United,1,0
+37,Premier League,Newcastle United vs Brighton & Hove Albion,5/11/2024,Newcastle United,Brighton & Hove Albion,1,1
+37,Premier League,Tottenham Hotspur vs Burnley,5/11/2024,Tottenham Hotspur,Burnley,2,1
+37,Premier League,West Ham United vs Luton Town,5/11/2024,West Ham United,Luton Town,3,1
+37,Premier League,Wolverhampton Wanderers vs Crystal Palace,5/11/2024,Wolverhampton Wanderers,Crystal Palace,1,3
+37,Premier League,Nottingham Forest vs Chelsea,5/11/2024,Nottingham Forest,Chelsea,2,3
+37,Premier League,Manchester United vs Arsenal,5/12/2024,Manchester United,Arsenal,0,1
+37,Premier League,Aston Villa vs Liverpool,5/13/2024,Aston Villa,Liverpool,3,3
+34,Premier League,Tottenham Hotspur vs Manchester City,5/14/2024,Tottenham Hotspur,Manchester City,0,2
+34,Premier League,Brighton & Hove Albion vs Chelsea,5/15/2024,Brighton & Hove Albion,Chelsea,1,2
+34,Premier League,Manchester United vs Newcastle United,5/15/2024,Manchester United,Newcastle United,3,2
+38,Premier League,Arsenal vs Everton,5/19/2024,Arsenal,Everton,2,1
+38,Premier League,Brentford vs Newcastle United,5/19/2024,Brentford,Newcastle United,2,4
+38,Premier League,Brighton & Hove Albion vs Manchester United,5/19/2024,Brighton & Hove Albion,Manchester United,0,2
+38,Premier League,Burnley vs Nottingham Forest,5/19/2024,Burnley,Nottingham Forest,1,2
+38,Premier League,Chelsea vs AFC Bournemouth,5/19/2024,Chelsea,AFC Bournemouth,2,1
+38,Premier League,Crystal Palace vs Aston Villa,5/19/2024,Crystal Palace,Aston Villa,5,0
+38,Premier League,Liverpool vs Wolverhampton Wanderers,5/19/2024,Liverpool,Wolverhampton Wanderers,2,0
+38,Premier League,Luton Town vs Fulham,5/19/2024,Luton Town,Fulham,2,4
+38,Premier League,Manchester City vs West Ham United,5/19/2024,Manchester City,West Ham United,3,1
+38,Premier League,Sheffield United vs Tottenham Hotspur,5/19/2024,Sheffield United,Tottenham Hotspur,0,3
