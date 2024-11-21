@@ -1,0 +1,428 @@
+Incident ID,Incident Date,State,City Or County,Address,Victims Killed,Victims Injured,Suspects Killed,Suspects Injured,Suspects Arrested,Operations,Latitude,Longitude,Coordinates_Found
+3052758,"October 21, 2024",Washington,Fall City,7700 block of Lake Alice Rd SE,5,1,0,0,1,,47.56812,-121.89086,Yes
+3052028,"October 20, 2024",Tennessee,Jackson,2310 N Highland Ave,1,8,0,0,0,,35.6139,-88.8194,Yes
+3051984,"October 20, 2024",Louisiana,Baton Rouge,9700 block of Greenwell Springs Rd,0,5,0,0,0,,30.44335,-91.18664,Yes
+3051041,"October 19, 2024",Pennsylvania,Philadelphia,2517 N Jessup St,0,7,0,0,0,,39.95222,-75.16218,Yes
+3050940,"October 19, 2024",Mississippi,Lexington,24904 MS-17,3,8,0,0,0,,33.11464,-90.05281,Yes
+3051717,"October 19, 2024",Georgia,Albany,504 College Dr,1,4,0,0,0,,31.5814,-84.15602,Yes
+3051689,"October 19, 2024",Indiana,Fort Wayne,4911 Manistee Dr,1,10,0,0,0,,41.08026,-85.13831,Yes
+3047186,"October 14, 2024",Michigan,Detroit,Haverhill St and Southampton St,1,3,0,0,0,,42.33168,-83.048,Yes
+3045998,"October 12, 2024",Tennessee,Nashville,Jefferson St and 27th Ave,1,9,0,0,2,,36.16784,-86.77816,Yes
+3045675,"October 12, 2024",Oklahoma,Oklahoma City,5878 S Agnew Ave,1,14,0,0,3,,35.47203,-97.52107,Yes
+3047310,"October 12, 2024",Georgia,Elberton,Evergreen Dr,1,7,0,0,1,,34.10988,-82.86405,Yes
+3046124,"October 12, 2024",Ohio,Cleveland (East Cleveland),15449 Euclid Ave,1,4,0,0,0,,41.50904,-81.61167,Yes
+3046477,"October 11, 2024",South Carolina,Newberry,1400 block of Martin St,0,4,0,0,0,,34.27455,-81.61924,Yes
+3044413,"October 9, 2024",Missouri,Kansas City,300 block of Westport Rd,0,5,0,0,0,,39.10344,-94.58311,Yes
+3041753,"October 6, 2024",Texas,Fort Worth,100 block of NW 24th St,1,5,0,0,1,,32.75095,-97.33086,Yes
+3041259,"October 5, 2024",Oklahoma,Oklahoma City,208 Johnny Bench Dr,0,4,0,0,3,,35.47203,-97.52107,Yes
+3040192,"October 4, 2024",California,Redding,6438 Westside Rd,2,3,0,0,1,,40.58762,-122.39249,Yes
+3037386,"September 29, 2024",Georgia,Atlanta,2500 block of Gresham Rd,1,3,0,0,0,,33.74831,-84.39111,Yes
+3036427,"September 29, 2024",Virginia,Danville,510 Spring St,1,3,0,0,1,,36.58598,-79.4172,Yes
+3036055,"September 28, 2024",District of Columbia,Washington,2700 block of Langston Pl SE,1,3,0,0,0,,38.89037,-77.03196,Yes
+3037002,"September 28, 2024",North Carolina,Henderson,1110 S Garnett St,0,5,0,0,0,,36.33006,-78.39848,Yes
+3037040,"September 27, 2024",South Carolina,Woodruff,115 Griffin Rd,3,1,0,0,0,,34.74011,-82.03601,Yes
+3034398,"September 26, 2024",Illinois,Chicago,4255 N Knox Ave,0,4,0,0,0,,41.88425,-87.63245,Yes
+3033981,"September 25, 2024",California,Los Angeles,449 W 74th St,0,6,0,0,4,,34.05357,-118.24545,Yes
+3029992,"September 21, 2024",Minnesota,Minneapolis,10 S 5th St,2,3,0,0,0,,44.97902,-93.26494,Yes
+3030144,"September 21, 2024",New York,Brooklyn,Cherry St and Stewart Ave,0,6,0,0,0,,40.69245,-73.99036,Yes
+3030222,"September 21, 2024",Arizona,Phoenix,N 16th St and E Van Buren St,1,3,0,0,1,,33.44825,-112.0758,Yes
+3030531,"September 21, 2024",Alabama,Birmingham,2012 Magnolia Ave,4,17,0,0,1,,33.52072,-86.81179,Yes
+3030761,"September 21, 2024",Illinois,Chicago,2500 block of S Spaulding Ave,1,6,0,0,0,,41.88425,-87.63245,Yes
+3029865,"September 20, 2024",Pennsylvania,Philadelphia,6527 Woodland Ave,1,3,0,0,0,,39.95222,-75.16218,Yes
+3027605,"September 18, 2024",Missouri,Saint Louis,5000 block of Kensington Ave,3,1,0,0,0,,38.62775,-90.19956,Yes
+3026197,"September 16, 2024",Illinois,Chicago,1500 W 51st St,0,4,0,0,0,,41.88425,-87.63245,Yes
+3025439,"September 15, 2024",Missouri,Florissant,2200 block of Windsor Dr,0,4,0,0,0,,38.79171,-90.32338,Yes
+3026772,"September 14, 2024",Alabama,Selma,201 N Race St,0,4,0,0,0,,32.41279,-87.02282,Yes
+3024100,"September 14, 2024",Kentucky,Louisville,521 N 22nd St,0,4,0,0,0,,38.25489,-85.76666,Yes
+3034497,"September 14, 2024",Louisiana,Monroe,,0,6,0,0,0,,32.50983,-92.11879,Yes
+3024007,"September 14, 2024",Texas,Houston,4901 Laura Koppe Rd,3,8,0,0,3,,29.76078,-95.36952,Yes
+3024089,"September 13, 2024",Tennessee,Antioch,223 Bart Dr,3,1,0,0,0,,36.05993,-86.67201,Yes
+3022787,"September 12, 2024",Virginia,Suffolk,822 E Washington St,2,3,0,0,0,,36.73114,-76.58837,Yes
+3017817,"September 7, 2024",Kentucky,East Bernstadt,I-75 and KY-909,0,5,1,0,0,,37.18931,-84.11821,Yes
+3018370,"September 7, 2024",Florida,Opa Locka,15600 NW 42nd Ave,0,5,0,0,0,,25.90457,-80.25298,Yes
+3018252,"September 7, 2024",Pennsylvania,Ellwood City,183 Portersville Rd,1,4,0,0,1,,40.86147,-80.28252,Yes
+3017295,"September 6, 2024",District of Columbia,Washington,900 block of Varney St SE,0,5,0,0,0,,38.89037,-77.03196,Yes
+3014703,"September 4, 2024",Georgia,Winder,940 Haymon Morris Rd,4,7,0,0,1,,33.99125,-83.72244,Yes
+3012631,"September 2, 2024",Illinois,Forest Park,711 Desplaines Ave,4,0,0,0,1,,41.87757,-87.81435,Yes
+3012888,"September 2, 2024",New York,Brooklyn,Eastern Pkwy and Classon Ave,1,4,0,0,0,,40.69245,-73.99036,Yes
+3013319,"September 2, 2024",Alabama,Bessemer,200 Fourth Ave N,0,4,0,0,0,,33.40203,-86.95399,Yes
+3013744,"September 2, 2024",Washington,Federal Way,I-5 and S 320th St,0,5,0,0,1,,47.30151,-122.3303,Yes
+3020008,"September 2, 2024",New Jersey,Newark,500 block of Clinton Ave,0,4,0,0,0,,40.73197,-74.17421,Yes
+3012738,"September 2, 2024",Tennessee,Antioch,825 Hamilton Crossings,0,6,0,0,1,,36.05993,-86.67201,Yes
+3012204,"September 1, 2024",Ohio,Dayton,1100 block of Gettysburg Ave,0,5,0,0,0,,39.7592,-84.19381,Yes
+3012525,"September 1, 2024",Ohio,Cleveland,14800 block of Lawndale Ave,0,4,0,0,1,,41.50473,-81.69074,Yes
+3012688,"September 1, 2024",Delaware,Milford,200 block of North St,0,4,0,0,0,,38.9107,-75.42854,Yes
+3011930,"August 31, 2024",Hawaii,Waianae,85-1300 Waianae Valley Rd,3,2,1,0,0,,21.44991,-158.19113,Yes
+3010531,"August 30, 2024",Minnesota,Burnsville,12100 River Hills Dr,0,5,0,0,0,,44.76634,-93.27615,Yes
+3011296,"August 30, 2024",Ohio,Euclid,Nicholas Ave and E 222nd St,1,4,0,0,1,,41.59946,-81.52682,Yes
+3009463,"August 29, 2024",California,Tulare,Martin Luther King Jr Ave and S St,0,4,0,0,0,,36.20649,-119.34305,Yes
+3007365,"August 27, 2024",Pennsylvania,Philadelphia,G St and Allegheny Ave,0,4,0,0,0,,39.95222,-75.16218,Yes
+3005280,"August 25, 2024",New York,Syosset,76 Wyoming Ct,4,0,1,0,0,,40.82746,-73.49544,Yes
+3005251,"August 25, 2024",Texas,Lubbock,9200 block of US-87 Frontage Rd,1,5,0,0,5,,33.58451,-101.84462,Yes
+3005607,"August 25, 2024",South Dakota,Sioux Falls,1301 S Marion Rd,1,3,0,0,0,,43.54576,-96.73131,Yes
+3006116,"August 25, 2024",Georgia,Warner Robins,308 Shirley Dr,0,4,0,0,0,,32.62083,-83.60687,Yes
+3005079,"August 25, 2024",Alabama,Mobile,Paper Mill Rd and Mckinley St,0,6,0,0,0,,30.68648,-88.05297,Yes
+3005802,"August 25, 2024",Pennsylvania,Allentown,112 N 7th St,0,6,0,0,2,,40.60263,-75.47027,Yes
+3005100,"August 24, 2024",Georgia,Dalton,1800 Pleasant Grove Dr NE,4,0,0,0,1,,34.76145,-84.97218,Yes
+3005346,"August 24, 2024",Pennsylvania,Chester,Butler St and Concord Ave,1,3,0,0,0,,39.84867,-75.35903,Yes
+3003576,"August 22, 2024",Texas,Houston,2266 Collier St,0,4,0,0,1,,29.76078,-95.36952,Yes
+3002869,"August 22, 2024",Wisconsin,Milwaukee,4001 W North Ave,1,3,0,0,1,,43.04223,-87.9069,Yes
+3002622,"August 21, 2024",Pennsylvania,Philadelphia,4000 block of Lancaster Ave,0,4,0,0,0,,39.95222,-75.16218,Yes
+3001529,"August 20, 2024",Mississippi,Jackson,300 block of Maple St,0,6,0,0,0,,32.29896,-90.18044,Yes
+3001570,"August 20, 2024",Washington,Everett,805 W Casino Rd,0,4,0,0,0,,47.97659,-122.20596,Yes
+3000990,"August 20, 2024",Illinois,Chicago,51st St and Ashland Ave,1,5,0,0,0,,41.88425,-87.63245,Yes
+2998510,"August 18, 2024",Minnesota,Minneapolis,1200 block of W Broadway Ave,0,4,0,0,0,,44.97902,-93.26494,Yes
+2998845,"August 18, 2024",Maryland,Baltimore,1300 block of N Spring St,1,7,0,0,1,,39.29058,-76.60926,Yes
+2998743,"August 18, 2024",Massachusetts,Boston,1 Franklin Park Rd,0,5,0,0,0,,42.35866,-71.05674,Yes
+2999346,"August 18, 2024",Oklahoma,Oklahoma City,Oklahoma Ave and E Sheridan Ave,0,4,0,1,1,,35.47203,-97.52107,Yes
+2997932,"August 17, 2024",California,Oakland,1618 83rd Ave,2,2,0,0,1,,37.80508,-122.27307,Yes
+2997679,"August 17, 2024",Mississippi,Jackson,208 W Capitol St,1,5,0,0,1,,32.29896,-90.18044,Yes
+2997856,"August 16, 2024",Tennessee,Memphis,2166 Central Ave,0,4,0,0,1,,35.14976,-90.04925,Yes
+2995981,"August 14, 2024",Colorado,Colorado Springs,332 Ellers Grove,1,3,0,0,0,,38.83352,-104.82181,Yes
+2994803,"August 14, 2024",Virginia,Petersburg,200 block of Boisseau St,0,4,0,0,2,,37.22815,-77.40348,Yes
+2996024,"August 14, 2024",Texas,San Antonio,6700 block of Windsor Hollow Dr,0,5,0,0,0,,29.42458,-98.49461,Yes
+2993727,"August 13, 2024",Massachusetts,Lawrence,91 Bennington St,1,3,0,0,0,,42.71047,-71.16032,Yes
+2992918,"August 12, 2024",Illinois,Chicago,750 S Clinton St,0,4,0,0,0,,41.88425,-87.63245,Yes
+2992225,"August 11, 2024",North Carolina,Sharpsburg,141 Weavers Cir,2,2,1,0,0,,35.86785,-77.82957,Yes
+2993537,"August 10, 2024",Ohio,Cleveland,4071 Lee Rd,0,4,0,0,0,,41.50473,-81.69074,Yes
+2992571,"August 10, 2024",Florida,Jacksonville,3100 N Main St,0,6,0,0,0,,30.33147,-81.65622,Yes
+2992248,"August 10, 2024",Georgia,Atlanta,540 Windsor St SW,0,5,0,0,0,,33.74831,-84.39111,Yes
+2991694,"August 9, 2024",North Carolina,Charlotte,7837 Nations Ford Rd,0,4,0,0,0,,35.22286,-80.83796,Yes
+2991600,"August 9, 2024",Texas,Dallas,4000 block of Cedarview Rd,0,4,0,0,0,,32.77822,-96.79512,Yes
+2990695,"August 9, 2024",Kentucky,Lexington,701 National Ave,1,5,0,0,0,,38.04861,-84.5003,Yes
+2990446,"August 8, 2024",Alabama,Birmingham,1600 block of Dennison Ave,2,2,0,0,1,,33.52072,-86.81179,Yes
+2989678,"August 7, 2024",New York,Bronx,E 190th St and Morris Ave,0,6,0,0,0,,40.826,-73.92309,Yes
+2988723,"August 6, 2024",West Virginia,Hedgesville (Cherry Run),Householder Rd,0,4,0,0,1,,39.62779,-78.03453,Yes
+2987351,"August 5, 2024",Missouri,Kansas City,Prospect Ave and E 70th St,1,5,0,0,0,,39.10344,-94.58311,Yes
+2987657,"August 5, 2024",Washington,Seattle,Broadway and E Pike St,0,4,0,0,0,,47.60357,-122.32945,Yes
+2988109,"August 4, 2024",Mississippi,Vicksburg,118 Abraham Dr,1,3,0,0,1,,32.35004,-90.88155,Yes
+2986409,"August 4, 2024",California,Oakland,Fruitvale Ave and MacArthur Blvd,0,5,0,0,0,,37.80508,-122.27307,Yes
+2986309,"August 4, 2024",Illinois,Chicago,2100 block of S Canal St,1,3,0,0,0,,41.88425,-87.63245,Yes
+2986352,"August 4, 2024",Illinois,Chicago,5100 block of S Calumet Ave,0,5,0,0,0,,41.88425,-87.63245,Yes
+2986327,"August 4, 2024",Oklahoma,Tulsa,2605 MLK Jr Blvd,0,8,0,0,0,,36.15011,-95.99352,Yes
+2986864,"August 4, 2024",Tennessee,Memphis,5560 Shelby Oaks Dr,0,4,0,0,1,,35.14976,-90.04925,Yes
+2986196,"August 3, 2024",District of Columbia,Washington,22 M St NE,2,2,0,0,0,,38.89037,-77.03196,Yes
+2986051,"August 3, 2024",Wisconsin,Milwaukee,3853 N Richards St,0,5,0,0,0,,43.04223,-87.9069,Yes
+2984628,"August 1, 2024",Colorado,Aurora,1472 Ironton St,1,3,0,0,0,,39.70932,-104.81458,Yes
+2983770,"July 30, 2024",Georgia,Fairburn,2275 GA-138,1,3,0,0,2,,33.56677,-84.58709,Yes
+2983265,"July 30, 2024",Maine,Portland,1155 Forest Ave,1,3,0,0,1,,43.65915,-70.25665,Yes
+2981150,"July 28, 2024",Wisconsin,Milwaukee,9200 block of W Silver Spring Dr,0,5,0,0,0,,43.04223,-87.9069,Yes
+2981386,"July 28, 2024",Florida,Pensacola,6405 Wagner Rd,2,5,0,0,0,,30.42106,-87.21727,Yes
+2981004,"July 28, 2024",Illinois,Champaign,2000 block of Cynthia Dr,2,2,0,0,0,,40.11426,-88.2435,Yes
+2980988,"July 28, 2024",Indiana,South Bend,1300 block of Bissell St,0,4,0,0,0,,41.67907,-86.25405,Yes
+2981511,"July 28, 2024",Missouri,Saint Louis,3505 Gravois Ave,1,3,0,0,2,,38.62775,-90.19956,Yes
+2982349,"July 28, 2024",Washington,Auburn,2900 block of M St SE,0,4,0,0,0,,47.3074,-122.23035,Yes
+2981325,"July 28, 2024",California,Los Angeles,E 51st St and Avalon Blvd,0,4,0,0,0,,34.05357,-118.24545,Yes
+2981128,"July 28, 2024",New York,Rochester,1 Maplewood Dr,2,5,0,0,0,,43.1558,-77.61632,Yes
+2980166,"July 27, 2024",Texas,Dallas,6008 S R L Thornton Fwy,1,4,0,0,1,,32.77822,-96.79512,Yes
+2978744,"July 25, 2024",Louisiana,Jeanerette,2519 Martin Luther King Dr,1,3,0,1,1,,29.91253,-91.66486,Yes
+2977073,"July 23, 2024",South Carolina,Burton,County Shed Rd and Jennings Rd,0,4,0,0,0,,32.43584,-80.72364,Yes
+2974973,"July 22, 2024",Wisconsin,Milwaukee,6901 W Vienna Ave,1,8,0,0,1,,43.04223,-87.9069,Yes
+2974593,"July 21, 2024",Mississippi,Indianola,200 Church Ave,1,15,2,0,0,,33.45084,-90.64494,Yes
+2974777,"July 21, 2024",Indiana,Anderson,2200 block of Arrow Ave,0,7,0,1,6,,40.10217,-85.67828,Yes
+2974135,"July 21, 2024",Pennsylvania,Philadelphia,2100 block of N Alden St,3,5,0,1,1,,39.95222,-75.16218,Yes
+2974697,"July 21, 2024",Mississippi,Jackson,2899 McDowell Rd Ext,2,4,0,0,0,,32.29896,-90.18044,Yes
+2973281,"July 20, 2024",California,Vista,Civic Center Dr,1,3,0,0,0,,33.20239,-117.23505,Yes
+2971655,"July 18, 2024",District of Columbia,Washington,22nd St and Alabama Ave SE,2,2,0,0,0,,38.89037,-77.03196,Yes
+2972255,"July 18, 2024",Alabama,West Blocton,1073 Greentree Dr,5,0,0,0,1,,33.11537,-87.11899,Yes
+2971382,"July 18, 2024",California,Los Angeles,Wilshire Blvd and S Alvarado St,0,4,0,0,3,,34.05357,-118.24545,Yes
+2969835,"July 15, 2024",Minnesota,Minneapolis,16th Ave S and E Franklin Ave,1,5,0,0,0,,44.97902,-93.26494,Yes
+2969569,"July 15, 2024",Texas,Orange,200 block of Morrell Blvd,0,4,0,0,0,,30.0931,-93.73668,Yes
+2968565,"July 14, 2024",Indiana,Indianapolis,3340 Teakwood Dr,0,5,0,0,0,,39.76691,-86.15012,Yes
+2967936,"July 14, 2024",Illinois,Chicago,9500 block of S Merrill Ave,0,4,0,0,0,,41.88425,-87.63245,Yes
+2967889,"July 13, 2024",Alabama,Birmingham,3427 27th St N,4,10,0,0,0,,33.52072,-86.81179,Yes
+2967459,"July 13, 2024",Pennsylvania,Butler,625 Evans City Rd,1,3,1,0,0,,40.86035,-79.89527,Yes
+2968616,"July 13, 2024",Connecticut,New Haven,Ivy St and Shelton Ave,0,4,0,0,0,,41.30801,-72.92432,Yes
+2967464,"July 12, 2024",Kentucky,Louisville,900 block of Esquire Alley,0,5,0,0,0,,38.25489,-85.76666,Yes
+2967371,"July 12, 2024",Kansas,Wichita,4800 block of S Gordon St,1,4,0,0,0,,37.68749,-97.33558,Yes
+2966300,"July 12, 2024",Illinois,Chicago,1300 block of S Lawndale Ave,0,5,0,0,0,,41.88425,-87.63245,Yes
+2965650,"July 11, 2024",Kansas,Wichita,2300 block of E Murdock St,0,4,0,0,1,,37.68749,-97.33558,Yes
+2965394,"July 10, 2024",California,Alameda,417 Kitty Hawk Rd,5,0,0,0,1,,37.76707,-122.24584,Yes
+2965207,"July 10, 2024",Massachusetts,Boston,10 Greenwood St,0,5,0,0,2,,42.35866,-71.05674,Yes
+2963309,"July 8, 2024",District of Columbia,Washington,1200 block of Potomac Ave SE,0,4,0,0,0,,38.89037,-77.03196,Yes
+2962488,"July 8, 2024",Massachusetts,New Bedford,Russell St and Acushnet Ave,0,6,0,0,0,,41.6378,-70.93089,Yes
+2963285,"July 8, 2024",North Carolina,Charlotte,1523 Parker Dr,1,3,0,0,0,,35.22286,-80.83796,Yes
+2963980,"July 8, 2024",Florida,Fort Lauderdale,700 block of NW 10th Terrace,2,3,0,0,0,,26.12401,-80.14357,Yes
+2961716,"July 7, 2024",Michigan,Detroit,Reno St and Rossini Dr,2,19,0,1,0,,42.33168,-83.048,Yes
+2963018,"July 7, 2024",North Carolina,Roper,12256 NC-32,1,3,0,0,0,,35.87748,-76.61582,Yes
+2962371,"July 6, 2024",Ohio,Akron,800 block of Morningview Ave,0,4,0,0,1,,41.08431,-81.51431,Yes
+2961005,"July 6, 2024",Wisconsin,Milwaukee,Doctor Martin Luther King Jr Dr and 6th St,0,4,0,0,0,,43.04223,-87.9069,Yes
+2960811,"July 6, 2024",Kentucky,Florence,2673 Ridgecrest Dr,4,3,1,0,0,,39.00187,-84.62988,Yes
+2967044,"July 5, 2024",Mississippi,Clarksdale,300 block of Madison Ave,1,3,0,0,0,,34.19457,-90.56492,Yes
+2960205,"July 5, 2024",New York,Poughkeepsie,Main St and S Hamilton St,0,4,0,0,0,,41.70712,-73.92915,Yes
+2960079,"July 5, 2024",Georgia,Albany,312 Thornton Dr,1,3,0,0,2,,31.5814,-84.15602,Yes
+2960126,"July 5, 2024",Michigan,Pontiac,300 block of S Jessie St,0,5,0,0,0,,42.63687,-83.28841,Yes
+2959241,"July 5, 2024",Illinois,Chicago,1300 block of W Hastings St,0,8,0,0,0,,41.88425,-87.63245,Yes
+2959290,"July 5, 2024",Illinois,Chicago,100 block of S Menard Ave,1,6,0,0,0,,41.88425,-87.63245,Yes
+2959377,"July 5, 2024",New York,Albany,Myrtle Ave and Quail St,0,6,0,0,0,,42.65155,-73.75521,Yes
+2959329,"July 5, 2024",Florida,Tampa,10924 N Nebraska Ave,0,4,0,0,1,,27.94653,-82.45927,Yes
+2958345,"July 4, 2024",Illinois,Chicago,7100 block of S Woodlawn Ave,3,2,0,0,0,,41.88425,-87.63245,Yes
+2960159,"July 4, 2024",Tennessee,Nashville,200 1st Ave S,0,4,0,0,0,,36.16784,-86.77816,Yes
+2960026,"July 4, 2024",Texas,Fort Worth,3700 block of Castleman St,2,2,0,0,1,,32.75095,-97.33086,Yes
+2959184,"July 4, 2024",Pennsylvania,Philadelphia,1900 block of Salford St,1,8,0,0,0,,39.95222,-75.16218,Yes
+2960055,"July 4, 2024",Texas,Fort Worth,7524 W Cleburne Rd,3,2,0,1,1,,32.75095,-97.33086,Yes
+2959928,"July 4, 2024",Missouri,Saint Louis (Spanish Lake),1200 block of Lakeview Dr,1,5,0,0,0,,38.79594,-90.21297,Yes
+2959943,"July 4, 2024",Missouri,Saint Louis,8th St and Pine St,0,7,0,0,0,,38.62775,-90.19956,Yes
+2959734,"July 4, 2024",Mississippi,Ocean Springs,Cumberland Rd,0,16,0,0,1,,30.41628,-88.80759,Yes
+2955181,"July 1, 2024",Missouri,Charleston,700 South St,0,5,0,0,1,,36.9218,-89.35006,Yes
+2956748,"July 1, 2024",Pennsylvania,Philadelphia,2700 Dickinson St,1,3,0,1,1,,39.95222,-75.16218,Yes
+2954458,"June 29, 2024",Georgia,Sylvania,Lawton Place Dr,0,6,0,0,0,,32.75504,-81.65096,Yes
+2952812,"June 28, 2024",New York,Niagara Falls,11th St and La Salle Ave,0,4,0,0,0,,43.096,-79.05551,Yes
+2952577,"June 28, 2024",Texas,Corpus Christi,2600 block of Buford St,2,3,0,0,0,,27.79641,-97.40389,Yes
+2953462,"June 28, 2024",Nebraska,Crete,1200 block of Crestline Dr,0,7,1,0,0,,40.62524,-96.96175,Yes
+2951432,"June 26, 2024",California,Lancaster,800 block of E Ave J-12,2,5,0,0,2,,34.6992,-118.14482,Yes
+2950871,"June 26, 2024",Wisconsin,Milwaukee,5912 W Oklahoma Ave,0,4,0,0,2,,43.04223,-87.9069,Yes
+2949852,"June 24, 2024",Nevada,North Las Vegas,370 Casa Norte Dr,5,1,1,0,0,,36.20069,-115.12228,Yes
+2948840,"June 24, 2024",Ohio,Dayton,1530 Home Ave,2,5,0,0,0,,39.7592,-84.19381,Yes
+2950074,"June 24, 2024",Ohio,Dayton,4900 block of Genesee Ave,0,4,1,0,0,,39.7592,-84.19381,Yes
+2949287,"June 24, 2024",Pennsylvania,York,600 block of W Market St,0,4,0,0,0,,39.96464,-76.72434,Yes
+2947726,"June 23, 2024",Ohio,Columbus,1100 block of N High St,0,10,0,0,0,,39.96199,-83.00275,Yes
+2948227,"June 23, 2024",California,Vallejo,Spring Rd and Monterey St,1,3,0,0,0,,38.10095,-122.25495,Yes
+2948042,"June 23, 2024",North Carolina,Winston Salem (Winston-salem),2915 Starlight Dr,1,3,0,1,1,,36.08317,-80.24613,Yes
+2947750,"June 23, 2024",New York,Rochester,353 Court St,0,6,0,0,1,,43.1558,-77.61632,Yes
+2947743,"June 23, 2024",Missouri,Saint Louis,N 11th St and Market St,1,5,0,0,1,,38.62775,-90.19956,Yes
+2947774,"June 23, 2024",Florida,Tampa,11606 McKinley Dr,1,3,0,0,4,,27.94653,-82.45927,Yes
+2948220,"June 23, 2024",New Jersey,Trenton,101 Walnut Ave,1,3,0,0,1,,40.21788,-74.75942,Yes
+2947849,"June 23, 2024",Alabama,Montgomery,N Pass Rd and Coliseum Blvd,0,9,0,0,0,,32.38015,-86.30005,Yes
+2947249,"June 22, 2024",Mississippi,Canton,Hickory St,1,5,0,0,1,,32.61258,-90.03472,Yes
+2947842,"June 22, 2024",Virginia,Glen Allen,11690 Old Washington Hwy,0,6,0,0,0,,37.6654,-77.50448,Yes
+2946903,"June 22, 2024",Kentucky,Louisville,2523 West Broadway,1,7,0,0,0,,38.25489,-85.76666,Yes
+2945819,"June 21, 2024",Arkansas,Fordyce,920 W 4th St,4,9,0,1,1,,33.81052,-92.41073,Yes
+2947288,"June 21, 2024",Mississippi,Meridian,500 block of 53rd Ave,1,3,0,0,1,,32.36508,-88.70308,Yes
+2946833,"June 21, 2024",District of Columbia,Washington,14th Pl and Savannah St SE,0,4,0,0,0,,38.89037,-77.03196,Yes
+2944778,"June 19, 2024",California,Oakland,400 block of Grand Ave,0,13,0,1,1,,37.80508,-122.27307,Yes
+2944267,"June 19, 2024",Pennsylvania,Philadelphia,2800 block of N Bambrey St,0,7,0,0,2,,39.95222,-75.16218,Yes
+2943875,"June 18, 2024",California,Richmond,700 Pennsylvania Ave,2,2,0,0,0,,37.93784,-122.34293,Yes
+2943300,"June 17, 2024",Georgia,Macon,3700 block of Napier Ave,1,3,0,0,0,,32.83997,-83.62805,Yes
+2941749,"June 17, 2024",Illinois,Chicago,6000 block of S Winchester Ave,0,7,0,0,0,,41.88425,-87.63245,Yes
+2941737,"June 17, 2024",Illinois,Chicago,900 block of N Pulaski Rd,0,5,0,0,0,,41.88425,-87.63245,Yes
+2940961,"June 16, 2024",Arkansas,Pine Bluff,200 Lake Saracen Dr,1,3,0,0,0,,34.22353,-92.0034,Yes
+2941065,"June 16, 2024",Massachusetts,Methuen,100 Lindberg Ave,0,7,0,0,0,,42.73011,-71.18368,Yes
+2941392,"June 16, 2024",Indiana,South Bend,1623 Lincoln Way W,0,4,0,0,0,,41.67907,-86.25405,Yes
+2940418,"June 15, 2024",Ohio,Cincinnati,6300 Bramble Ave,0,5,0,0,0,,39.10713,-84.50413,Yes
+2940302,"June 15, 2024",Michigan,Rochester (Rochester Hills),1585 E Auburn Rd,0,9,1,0,0,,42.65026,-83.13238,Yes
+2940337,"June 15, 2024",Michigan,Southfield,17587 Margate Ave,0,6,0,0,0,,42.48327,-83.24111,Yes
+2940598,"June 15, 2024",Texas,Round Rock,1371 Harrell Pkwy,2,14,0,0,3,,30.50904,-97.67722,Yes
+2940762,"June 15, 2024",Michigan,Detroit,17800 block of Albion Ave,1,4,0,0,0,,42.33168,-83.048,Yes
+2940313,"June 15, 2024",Alabama,Tuskegee,207 E Martin Luther King Hwy,1,3,0,0,0,,32.42405,-85.68978,Yes
+2939783,"June 14, 2024",West Virginia,Princeton,347 Meadowfield Ln,0,5,0,0,1,,37.36653,-81.10464,Yes
+2939734,"June 14, 2024",Florida,Fort Lauderdale,2300 block of NW Eighth St,1,4,0,0,0,,26.12401,-80.14357,Yes
+2940564,"June 14, 2024",Pennsylvania,Philadelphia,3301 W York St,1,4,0,0,0,,39.95222,-75.16218,Yes
+2939289,"June 14, 2024",Illinois,Chicago,9100 block of S Harper Ave,0,4,0,0,0,,41.88425,-87.63245,Yes
+2939657,"June 14, 2024",Ohio,Columbus,205 N 5th St,2,2,0,0,1,,39.96199,-83.00275,Yes
+2939030,"June 13, 2024",Illinois,Chicago,11910 S Michigan Ave,0,4,0,0,0,,41.88425,-87.63245,Yes
+2943126,"June 12, 2024",Florida,Hudson,Nottingham Trail,4,0,0,0,1,,28.36419,-82.69511,Yes
+2937456,"June 11, 2024",Tennessee,Memphis,I-240 and Poplar Ave,0,5,0,0,4,,35.14976,-90.04925,Yes
+2935591,"June 9, 2024",District of Columbia,Washington,2200 block of Minnesota Ave SE,0,6,0,0,0,,38.89037,-77.03196,Yes
+2935430,"June 9, 2024",Texas,Dallas,Elm St and N Crowdus St,0,4,0,0,0,,32.77822,-96.79512,Yes
+2935144,"June 9, 2024",Wisconsin,Madison,433 W Johnson St,0,12,0,0,1,,43.07313,-89.38644,Yes
+2936012,"June 9, 2024",Virginia,Richmond,200 block of N 2nd St,0,4,0,0,0,,37.54068,-77.43367,Yes
+2936435,"June 8, 2024",Alabama,Eufaula,900 block of Jackson St,0,4,0,0,0,,31.89498,-85.14585,Yes
+2934578,"June 8, 2024",South Dakota,Sioux Falls,5105 S Drexel Ave,3,2,0,0,1,,43.54576,-96.73131,Yes
+2934537,"June 8, 2024",North Carolina,Charlotte,616 N Tryon St,1,3,0,0,1,,35.22286,-80.83796,Yes
+2934048,"June 7, 2024",Missouri,Saint Louis (Jennings),2600 block of Shannon Ave,1,4,0,0,0,,38.72367,-90.25559,Yes
+2934417,"June 7, 2024",South Carolina,Seabrook,Horace Dawson Ln,0,4,0,0,0,,32.53324,-80.74701,Yes
+2934007,"June 7, 2024",California,Compton,E Greenleaf Blvd and S Mayo Ave,1,5,0,0,0,,33.89569,-118.22436,Yes
+2933578,"June 6, 2024",Missouri,Kansas City,3200 block of Bellefontaine Ave,2,2,0,0,0,,39.10344,-94.58311,Yes
+2930393,"June 3, 2024",Tennessee,Memphis,3600 block of Powers Rd,0,4,0,0,0,,35.14976,-90.04925,Yes
+2930818,"June 3, 2024",Virginia,Triangle,3700 block of Masthead Trail,1,3,0,0,1,,38.5465,-77.33617,Yes
+2931572,"June 3, 2024",Pennsylvania,Philadelphia,N Philip St and W Westmoreland St,0,4,0,0,0,,39.95222,-75.16218,Yes
+2928604,"June 2, 2024",Pennsylvania,Pittsburgh,3534 Laketon Rd,2,7,0,0,1,,40.43851,-79.99734,Yes
+2928765,"June 2, 2024",Florida,Pensacola,Palafox St and W Intendencia St,0,4,0,0,1,,30.42106,-87.21727,Yes
+2928754,"June 2, 2024",Virginia,Newport News,26th St and Parish Ave,0,4,0,0,0,,37.08358,-76.48065,Yes
+2929682,"June 2, 2024",Missouri,Saint Louis,3775 Kossuth Ave,0,6,0,0,0,,38.62775,-90.19956,Yes
+2928614,"June 2, 2024",Kentucky,Louisville,7015 Raggard Rd,0,7,0,0,0,,38.25489,-85.76666,Yes
+2928467,"June 2, 2024",Ohio,Akron,Kelly Ave and 8th Ave,1,28,0,0,0,,41.08431,-81.51431,Yes
+2929504,"June 1, 2024",Pennsylvania,Philadelphia,900 block of S 58th St,1,3,0,0,0,,39.95222,-75.16218,Yes
+2928378,"June 1, 2024",Michigan,Detroit,W Grand Blvd and W Warren Ave,0,5,0,0,0,,42.33168,-83.048,Yes
+2928808,"June 1, 2024",South Carolina,Rock Hill,900 block of Southland Dr,2,2,0,0,1,,34.92428,-81.02709,Yes
+2927825,"June 1, 2024",Arizona,Sacaton,629 W Moffett Rd,2,4,0,2,2,,33.08192,-111.74448,Yes
+2928214,"June 1, 2024",Ohio,Columbus,500 block of N Ohio Ave,1,3,0,0,0,,39.96199,-83.00275,Yes
+2925929,"May 30, 2024",Minnesota,Minneapolis,2221 Blaisdell Ave,3,3,1,0,0,,44.97902,-93.26494,Yes
+2926808,"May 30, 2024",Maryland,Elkridge,6900 block of Norwood Ferry,3,1,1,0,0,,39.20699,-76.72722,Yes
+2926373,"May 30, 2024",Georgia,Decatur,2300 block of Greenway Dr,0,5,0,1,1,,33.77437,-84.29658,Yes
+2927030,"May 30, 2024",Utah,Salt Lake City (Murray),W Fireclay Ave and Birkhill Blvd,1,3,0,0,1,,40.66231,-111.88832,Yes
+2923547,"May 28, 2024",Connecticut,Waterbury,50 Mitchell Ave,0,4,0,0,0,,41.5549,-73.04647,Yes
+2922097,"May 27, 2024",Michigan,Lansing,325 Riverfront Dr,1,6,0,0,0,,42.73194,-84.55225,Yes
+2923055,"May 27, 2024",California,Sacramento,2701 Meadowview Rd,0,4,0,1,3,,38.57944,-121.49085,Yes
+2923261,"May 27, 2024",Virginia,Richmond,1900 block of Raven Ct,2,2,0,0,0,,37.54068,-77.43367,Yes
+2938698,"May 27, 2024",Mississippi,Jackson,Northside Dr,0,4,0,0,4,,32.29896,-90.18044,Yes
+2921217,"May 26, 2024",Illinois,Chicago,1300 block of S Christiana Ave,1,3,0,0,0,,41.88425,-87.63245,Yes
+2921717,"May 26, 2024",Ohio,Cleveland,1437 St Clair Ave,2,2,0,0,3,,41.50473,-81.69074,Yes
+2921394,"May 26, 2024",Missouri,Kansas City,Westport Road and Broadway,0,5,1,0,0,,39.10344,-94.58311,Yes
+2921251,"May 25, 2024",California,San Fernando,925 Orange Grove Ave,0,5,0,0,1,,34.28406,-118.43844,Yes
+2921097,"May 25, 2024",Minnesota,Saint Paul (North Saint Paul),2039 17th Ave E,0,4,0,0,0,,44.99643,-93.01967,Yes
+2920512,"May 25, 2024",Florida,Fort Pierce,1800 block of Ave G,0,5,0,0,0,,27.44904,-80.32678,Yes
+2920544,"May 24, 2024",Illinois,Pembroke Township,13100 E Central St,2,3,0,0,0,,41.0672,-87.60335,Yes
+2919460,"May 23, 2024",New Jersey,Newark,121 Shephard Ave,0,4,0,0,0,,40.73197,-74.17421,Yes
+2917331,"May 22, 2024",Pennsylvania,Chester,2626 W 4th St,2,3,0,0,1,,39.84867,-75.35903,Yes
+2916464,"May 21, 2024",Illinois,Chicago,1100 block of S Whipple St,0,4,0,0,0,,41.88425,-87.63245,Yes
+2916825,"May 21, 2024",Pennsylvania,Harrisburg,Chestnut St and S 15th St,1,3,1,0,2,,40.25986,-76.88223,Yes
+2918843,"May 20, 2024",Michigan,Detroit,17000 block of Ohio St,1,4,0,0,1,,42.33168,-83.048,Yes
+2913404,"May 18, 2024",Florida,Sarasota,3474 17th St,1,4,0,1,1,,27.33889,-82.53887,Yes
+2914188,"May 18, 2024",Missouri,Saint Louis,3000 block of Olive St,1,3,0,0,2,,38.62775,-90.19956,Yes
+2914190,"May 18, 2024",Missouri,Bridgeton,MO-141 and Corporate Woods Dr,1,4,0,0,2,,38.75529,-90.40709,Yes
+2914713,"May 18, 2024",North Carolina,Reidsville,8110 Cherry Grove Rd,2,2,1,0,0,,36.35955,-79.66423,Yes
+2913794,"May 18, 2024",Illinois,Chicago,700 block of S Albany Ave,0,6,0,0,0,,41.88425,-87.63245,Yes
+2913782,"May 18, 2024",Georgia,Savannah,W Congress Ln and Barnard St,0,9,0,2,7,,32.08091,-81.09119,Yes
+2913052,"May 18, 2024",Ohio,Columbus,132 E 5th Ave,3,3,0,0,0,,39.96199,-83.00275,Yes
+2908173,"May 12, 2024",Missouri,Saint Louis,10000 block of Toelle Ln,1,3,0,0,0,,38.62775,-90.19956,Yes
+2907387,"May 12, 2024",Florida,Tallahassee,1147 Apalachee Pkwy,2,2,0,0,0,,30.43977,-84.28065,Yes
+2916101,"May 12, 2024",Alabama,Montgomery,2400 block of Eastern Blvd,0,6,0,0,0,,32.38015,-86.30005,Yes
+2907162,"May 12, 2024",Georgia,Atlanta,2110 Peachtree Rd NW,2,4,0,0,1,,33.74831,-84.39111,Yes
+2907598,"May 12, 2024",Massachusetts,Northborough,333 Howard St,1,4,0,0,3,,42.31098,-71.6548,Yes
+2906715,"May 11, 2024",Kentucky,Louisville,282 Evangeline Ave,2,2,0,0,0,,38.25489,-85.76666,Yes
+2907355,"May 11, 2024",Alabama,Stockton,9400 block of Bryants Landing Rd,3,15,0,0,3,,30.99486,-87.85781,Yes
+2904816,"May 8, 2024",North Carolina,Durham,311 S Lasalle St,1,3,0,0,2,,35.99544,-78.8965,Yes
+2904508,"May 8, 2024",Texas,San Antonio,6708 Windsor Hollow Dr,1,4,0,0,0,,29.42458,-98.49461,Yes
+2902327,"May 6, 2024",Indiana,Fort Wayne,Hanna St and E Rudisill Blvd,0,4,0,0,1,,41.08026,-85.13831,Yes
+2900406,"May 5, 2024",Alabama,Birmingham,800 3rd Ave W,1,6,0,0,2,,33.52072,-86.81179,Yes
+2900481,"May 5, 2024",Alabama,Tuscaloosa,1300 block of 58th St E,1,3,0,0,1,,33.21056,-87.56576,Yes
+2901278,"May 5, 2024",Alabama,Huntsville,708 Poplar Ave NW,0,5,0,0,1,,34.72929,-86.5851,Yes
+2902726,"May 5, 2024",New Mexico,Gallup,1500 block of S 2nd St,2,2,0,0,0,,35.52784,-108.74356,Yes
+2899844,"May 4, 2024",New York,Corona (Queens),108-11 Atlantic Avenue,1,3,0,0,0,,40.7466,-73.85405,Yes
+2900308,"May 4, 2024",California,Long Beach,2688 E South St,0,7,0,0,0,,33.76672,-118.1924,Yes
+2900165,"May 4, 2024",New York,Buffalo,1490 Jefferson Ave,1,5,0,0,0,,42.88545,-78.87846,Yes
+2899989,"May 4, 2024",Tennessee,Memphis,3562 Kirby Pkwy,1,3,0,0,0,,35.14976,-90.04925,Yes
+2900213,"May 4, 2024",Pennsylvania,Philadelphia,1007 S 51st St,1,3,0,0,0,,39.95222,-75.16218,Yes
+2899834,"May 3, 2024",New York,Westbury,Pepperidge Rd and Eastfield Rd,0,6,0,0,0,,40.75712,-73.58683,Yes
+2931805,"May 3, 2024",Texas,Houston,6800 block of Cullen Blvd,0,4,0,0,6,,29.76078,-95.36952,Yes
+2899180,"May 2, 2024",Virginia,Richmond,3800 Delmont St,1,3,0,0,0,,37.54068,-77.43367,Yes
+2898126,"May 1, 2024",Michigan,Detroit,Faust Ave and Westfield Ave,0,4,0,0,1,,42.33168,-83.048,Yes
+2896893,"May 1, 2024",Texas,Fort Worth,3096 Las Vegas Trl,0,6,0,0,5,,32.75095,-97.33086,Yes
+2893900,"April 29, 2024",North Carolina,Charlotte,5525 Galway Dr,4,4,1,0,0,,35.22286,-80.83796,Yes
+2895203,"April 29, 2024",Florida,Miami Gardens,1400 NW 197th St,0,5,0,0,0,,25.92753,-80.22215,Yes
+2892877,"April 28, 2024",Florida,Sanford,4380 Carraway Pl,0,10,0,0,1,,28.81396,-81.26805,Yes
+2893298,"April 28, 2024",Georgia,Fitzgerald,300 block of E Pine St,1,3,0,0,1,,31.71497,-83.25226,Yes
+2892937,"April 28, 2024",Arizona,Tucson,3200 block of E 5th St,1,3,0,0,4,,32.22177,-110.96977,Yes
+2892952,"April 28, 2024",Louisiana,Kenner,700 block of Farm Ave,0,5,1,0,0,,29.9902,-90.24199,Yes
+2893705,"April 28, 2024",Mississippi,Utica,1022 Lee Davis Cir,1,3,0,1,3,,32.10932,-90.62643,Yes
+2892069,"April 27, 2024",Florida,Daytona Beach,600 block of N Grandview Ave,0,4,0,0,1,,29.20366,-81.03917,Yes
+2892374,"April 27, 2024",South Carolina,Santee,800 block of Antioch Rd,1,3,0,0,3,,33.48767,-80.4762,Yes
+2892008,"April 26, 2024",District of Columbia,Washington,1219 Connecticut Ave NW,0,6,0,0,1,,38.89037,-77.03196,Yes
+2888610,"April 22, 2024",Virginia,Petersburg,5900 block of Sentry Hill Ct,0,5,0,0,0,,37.22815,-77.40348,Yes
+2887313,"April 22, 2024",Oklahoma,Yukon,2804 Mirage St,4,0,1,0,0,,35.5063,-97.73777,Yes
+2886674,"April 21, 2024",Illinois,Oak Forest,5500 block of Babette Ct,1,3,0,0,1,,41.6133,-87.75634,Yes
+2885854,"April 20, 2024",Tennessee,Memphis,2410 Carnes Ave,2,7,0,0,0,,35.14976,-90.04925,Yes
+2884570,"April 19, 2024",Maryland,Greenbelt,6915 Hanover Pkwy,0,5,0,0,2,,39.00079,-76.88056,Yes
+2884585,"April 19, 2024",District of Columbia,Washington,1211 Mount Olivet Rd NE,0,4,0,0,0,,38.89037,-77.03196,Yes
+2884446,"April 18, 2024",Louisiana,Thibodaux,1400 block of Orange Grove Sq,0,4,0,0,0,,29.79552,-90.82253,Yes
+2881822,"April 16, 2024",New York,Bronx,E Mount Eden Ave and Townsend Ave,1,3,0,0,2,,40.826,-73.92309,Yes
+2881676,"April 16, 2024",North Carolina,Clinton,Boykin Rd and Shaun Ln,1,3,0,0,0,,34.99832,-78.32214,Yes
+2879450,"April 14, 2024",Texas,Dallas,4530 Collins Ave,1,8,0,0,1,,32.77822,-96.79512,Yes
+2880126,"April 14, 2024",Kentucky,Hopkinsville,1700 Canton St,0,4,0,0,2,,36.86735,-87.48765,Yes
+2879964,"April 14, 2024",Virginia,Richmond,1300 block of Jennie Scher Rd,1,4,0,0,0,,37.54068,-77.43367,Yes
+2879792,"April 14, 2024",Tennessee,Nashville,480 Bell Rd,0,6,0,0,1,,36.16784,-86.77816,Yes
+2880226,"April 14, 2024",Louisiana,New Orleans,828 S Peters St,1,11,0,0,0,,29.9537,-90.07775,Yes
+2879659,"April 13, 2024",Arkansas,Wynne,Williams Ave and Martin Luther King St,1,9,0,0,3,,35.22204,-90.78738,Yes
+2879189,"April 13, 2024",Illinois,Chicago,2021 W 52nd St,1,10,0,0,1,,41.88425,-87.63245,Yes
+2880895,"April 13, 2024",Georgia,Albany,300 E Broad Ave,0,4,0,0,6,,31.5814,-84.15602,Yes
+2880957,"April 13, 2024",Mississippi,Coldwater,W Central St,1,3,0,0,0,,34.68797,-89.97843,Yes
+2877499,"April 11, 2024",Florida,Orlando,2800 block of Gamma Dr,1,3,0,0,0,,28.53823,-81.37739,Yes
+2876444,"April 10, 2024",District of Columbia,Washington,1100 block of 21st Street NE,1,5,0,0,0,,38.89037,-77.03196,Yes
+2873416,"April 7, 2024",Texas,San Antonio,11135 Wye Dr,0,6,0,0,0,,29.42458,-98.49461,Yes
+2873450,"April 7, 2024",Oklahoma,Oklahoma City,3034 N Portland Ave,1,3,0,0,0,,35.47203,-97.52107,Yes
+2872613,"April 6, 2024",Florida,Miami (Doral),3450 NW 83rd Ave,1,7,1,0,0,,25.82147,-80.33198,Yes
+2872340,"April 5, 2024",Arkansas,North Little Rock,116 Curtis Sykes Dr,1,3,0,0,1,,34.75606,-92.26761,Yes
+2872754,"April 5, 2024",Florida,West Palm Beach,1170 W 27th St,1,3,0,0,1,,26.7144,-80.05329,Yes
+2872358,"April 1, 2024",Louisiana,New Iberia,600 block of Breaux Alley,0,4,0,1,2,,30.00531,-91.81776,Yes
+2868907,"April 1, 2024",Michigan,Eastpointe,19000 block of Dijon Ave,0,4,0,0,0,,42.46823,-82.95542,Yes
+2966990,"March 31, 2024",Mississippi,Greenwood,US-49E,1,3,0,0,1,,33.51711,-90.18039,Yes
+2867279,"March 31, 2024",Tennessee,Nashville,614 Garfield St,1,5,0,0,1,,36.16784,-86.77816,Yes
+2867514,"March 31, 2024",Illinois,Chicago,400 block of N Lavergne Ave,1,3,0,0,3,,41.88425,-87.63245,Yes
+2866851,"March 31, 2024",Illinois,Chicago,5333 W Madison St,1,4,0,0,0,,41.88425,-87.63245,Yes
+2867670,"March 31, 2024",Mississippi,Jackson,2050 Martin Luther King Jr Dr,0,4,0,1,0,,32.29896,-90.18044,Yes
+2867139,"March 31, 2024",Georgia,Dublin,500 block of West Ave,2,5,0,0,2,,32.53895,-82.90727,Yes
+2867883,"March 31, 2024",Mississippi,Jackson,3200 block of US-80,1,3,0,0,0,,32.29896,-90.18044,Yes
+2868697,"March 31, 2024",Texas,Paris,1355 8th NE,0,4,0,0,0,,33.66128,-95.56356,Yes
+2868563,"March 31, 2024",Florida,Saint Petersburg,400 49th St S,0,4,0,0,5,,27.77119,-82.63876,Yes
+2866832,"March 30, 2024",Indiana,Indianapolis,49 W Maryland St,0,7,0,0,1,,39.76691,-86.15012,Yes
+2866920,"March 30, 2024",Connecticut,Bridgeport,1542 Stratford Ave,2,1,0,1,2,,41.18213,-73.19064,Yes
+2865719,"March 29, 2024",Alabama,Mobile,600 block of Euclid Ave,2,2,0,1,2,,30.68648,-88.05297,Yes
+2865779,"March 29, 2024",Michigan,Detroit,8203 W Chicago St,0,5,0,0,1,,42.33168,-83.048,Yes
+2864257,"March 27, 2024",Texas,Houston,3403 Love St,1,3,0,0,0,,29.76078,-95.36952,Yes
+2862335,"March 25, 2024",Florida,Pompano Beach,1750 Dr. Martin Luther King Jr. Blvd,1,3,0,0,3,,26.23146,-80.12544,Yes
+2860902,"March 24, 2024",Indiana,Indianapolis,9439 E Washington St,0,5,1,0,0,,39.76691,-86.15012,Yes
+2859623,"March 22, 2024",Louisiana,New Orleans,AP Tureau Ave and N Roman St,2,2,0,0,0,,29.9537,-90.07775,Yes
+2855294,"March 17, 2024",District of Columbia,Washington,1541 7th St NW,2,5,0,0,0,,38.89037,-77.03196,Yes
+2854765,"March 16, 2024",Ohio,Euclid,19500 block of St Clair Ave,0,5,0,0,0,,41.59946,-81.52682,Yes
+2854542,"March 16, 2024",Indiana,Indianapolis,808 Broad Ripple Ave,1,5,0,0,1,,39.76691,-86.15012,Yes
+2855735,"March 16, 2024",California,Manteca,955 E Yosemite Ave,0,4,0,0,0,,37.79917,-121.23276,Yes
+2855051,"March 16, 2024",Texas,El Paso,2285 Trawood Dr,1,3,0,0,1,,31.75916,-106.48749,Yes
+2855474,"March 16, 2024",Alabama,Montgomery,3700 block of Woodley Rd,1,3,0,0,0,,32.38015,-86.30005,Yes
+2853374,"March 14, 2024",Tennessee,Memphis,1300 block of Quinn Ave,1,3,0,1,2,,35.14976,-90.04925,Yes
+2851205,"March 12, 2024",Florida,Lawtey,21637 NE 17th Ave,3,1,0,0,1,,30.04462,-82.07286,Yes
+2849965,"March 10, 2024",Louisiana,Shreveport,2755 Hollywood Ave,1,3,0,0,0,,32.51487,-93.74689,Yes
+2849245,"March 10, 2024",Arkansas,Jonesboro,641 Burke Ave,2,5,1,0,0,,35.83525,-90.70507,Yes
+2846628,"March 6, 2024",Pennsylvania,Philadelphia,Rising Sun Ave and Cottman Ave,0,8,0,0,4,,39.95222,-75.16218,Yes
+2844773,"March 4, 2024",Pennsylvania,Philadelphia,Ogontz Ave and Godfrey Ave,1,4,0,0,0,,39.95222,-75.16218,Yes
+2844405,"March 3, 2024",California,King City,215 N 2nd St,4,7,0,0,3,,36.21086,-121.1266,Yes
+2844148,"March 3, 2024",Mississippi,West Point,10514 US-45 ALT N,1,12,0,0,1,,33.60651,-88.65044,Yes
+2843663,"March 2, 2024",Texas,Houston,5101 Washington Ave,0,4,0,0,1,,29.76078,-95.36952,Yes
+2843303,"March 2, 2024",North Carolina,Pembroke,408 W Railroad St,2,3,0,0,1,,34.67925,-79.19304,Yes
+2844305,"March 2, 2024",Louisiana,Natchez,198 LA-119,1,3,0,0,0,,31.6754,-93.04219,Yes
+2841692,"February 29, 2024",Missouri,Independence,1111 N Elsea Smith Rd,2,2,0,1,1,,39.09359,-94.41562,Yes
+2840946,"February 28, 2024",Florida,Orlando,Ironwedge Dr and S Lake Orlando Pkwy,1,6,0,0,2,,28.53823,-81.37739,Yes
+2839362,"February 27, 2024",Minnesota,Minneapolis,E Franklin Ave and Elliot Ave,1,3,0,0,0,,44.97902,-93.26494,Yes
+2839240,"February 26, 2024",Kentucky,Louisville,5500 block of Overbrook Woods Pl,1,3,0,0,0,,38.25489,-85.76666,Yes
+2838132,"February 25, 2024",Illinois,Chicago,7340 N Rogers Ave,1,3,0,0,1,,41.88425,-87.63245,Yes
+2838389,"February 25, 2024",Illinois,Chicago,8033 S Vincennes Ave,3,1,0,0,1,,41.88425,-87.63245,Yes
+2838881,"February 25, 2024",Alaska,Point Hope,309 Agviq St,2,2,0,0,1,,68.34944,-166.73945,Yes
+2834712,"February 20, 2024",Pennsylvania,Allentown,1800 block of W Turner St,0,4,0,0,1,,40.60263,-75.47027,Yes
+2898968,"February 19, 2024",California,Oakland,3841 West St,0,5,0,0,4,,37.80508,-122.27307,Yes
+2832971,"February 19, 2024",Indiana,Indianapolis,2621 S Lynhurst Dr,1,5,0,0,0,,39.76691,-86.15012,Yes
+2832334,"February 18, 2024",Minnesota,Burnsville,12605 33rd Ave,3,1,1,0,0,,44.76634,-93.27615,Yes
+2832590,"February 18, 2024",Alabama,Montgomery,3500 block of McGehee Rd,1,3,0,0,1,,32.38015,-86.30005,Yes
+2832558,"February 18, 2024",California,Carson,1155 E Dominguez St,0,4,0,0,0,,33.83161,-118.26209,Yes
+2831391,"February 16, 2024",Alabama,Birmingham,828 Center Street N,4,0,0,0,1,,33.52072,-86.81179,Yes
+2830649,"February 15, 2024",Arkansas,Springdale,599 E Lakeview Dr,1,4,0,0,3,,36.18836,-94.13021,Yes
+2828898,"February 14, 2024",Georgia,Atlanta,3450 Benjamin E Mays Dr SW,0,4,0,0,1,,33.74831,-84.39111,Yes
+2828337,"February 14, 2024",Georgia,Claxton,7903 US-301,2,2,0,0,1,,32.16129,-81.90451,Yes
+2828642,"February 14, 2024",Missouri,Kansas City,30 W Pershing Rd,1,22,0,2,6,,39.10344,-94.58311,Yes
+2828159,"February 13, 2024",Maryland,Baltimore,700 block of E Eager St,0,4,0,0,0,,39.29058,-76.60926,Yes
+2826683,"February 12, 2024",New York,Bronx,Jerome Ave and W Mount Eden Ave,1,5,0,0,3,,40.826,-73.92309,Yes
+2826220,"February 11, 2024",Tennessee,Jackson,23 Heritage Square,0,4,1,0,0,,35.6139,-88.8194,Yes
+2826477,"February 11, 2024",California,Huntington Park,6000 block of Bear Ave,4,1,0,0,3,,33.98143,-118.21914,Yes
+2825493,"February 11, 2024",Illinois,Chicago,W 30th St and S St Louis Ave,0,7,0,0,0,,41.88425,-87.63245,Yes
+2824648,"February 9, 2024",Texas,Dallas,220 Stoneport Dr,0,5,0,0,0,,32.77822,-96.79512,Yes
+2824579,"February 9, 2024",District of Columbia,Washington,1200 block of Raum St NE,1,3,0,0,0,,38.89037,-77.03196,Yes
+2822404,"February 7, 2024",Pennsylvania,Lansdowne (East Lansdowne),58 Lewis Ave,4,2,1,0,0,,39.94117,-75.25733,Yes
+2819413,"February 4, 2024",Colorado,Denver,5000 block of N Orleans Ct,2,4,0,0,0,,39.74001,-104.99202,Yes
+2815932,"January 31, 2024",Louisiana,New Orleans,Wall Blvd and Murl St,1,3,0,0,0,,29.9537,-90.07775,Yes
+2815852,"January 31, 2024",Kentucky,Louisville,S 12th St and W Muhammad Ali Blvd,2,2,0,0,0,,38.25489,-85.76666,Yes
+2815425,"January 29, 2024",Mississippi,Grenada,N Lynch St,0,4,0,0,0,,33.78398,-89.81,Yes
+2813433,"January 28, 2024",Florida,Palm Bay,473 Forgal Ave,3,2,1,0,0,,28.00004,-80.67262,Yes
+2813845,"January 28, 2024",California,Compton,S Central Ave and Alondra Blvd,0,4,0,0,0,,33.89569,-118.22436,Yes
+2814635,"January 28, 2024",Tennessee,Memphis,2223 W River Trace Dr,2,2,0,0,1,,35.14976,-90.04925,Yes
+2813443,"January 28, 2024",Pennsylvania,Harrisburg,600 block of Fillmore St,0,4,0,0,0,,40.25986,-76.88223,Yes
+2815416,"January 27, 2024",Mississippi,Grenada,800 block of Martin Luther King Jr Dr,1,3,0,0,1,,33.78398,-89.81,Yes
+2812487,"January 27, 2024",North Carolina,Charlotte,8508 Lodge S Cir,3,1,0,0,0,,35.22286,-80.83796,Yes
+2812327,"January 25, 2024",Missouri,Kansas City,3100 block of E Linwood Blvd,0,4,0,0,0,,39.10344,-94.58311,Yes
+2810693,"January 24, 2024",Louisiana,New Orleans,3400 block of Wall Blvd,1,3,0,0,0,,29.9537,-90.07775,Yes
+2809998,"January 23, 2024",California,Adelanto,Shadow Mountain Rd and Lessing Ave,6,0,0,0,5,,34.57922,-117.4101,Yes
+2807511,"January 21, 2024",Texas,Katy,4643 Russet Leaf Tr,3,2,0,1,1,,29.78772,-95.82333,Yes
+2807503,"January 21, 2024",New York,Bronx,4137 White Plains Rd,1,3,0,0,0,,40.826,-73.92309,Yes
+2807473,"January 21, 2024",Illinois,Tinley Park,7430 173rd Pl,4,0,0,0,1,,41.59725,-87.78517,Yes
+2808531,"January 21, 2024",Illinois,Joliet,200 block of Davis St,8,1,1,0,1,,41.52493,-88.08459,Yes
+2807488,"January 20, 2024",Florida,Palm Bay,1700 Woodlake Dr NE,3,2,0,0,1,,28.00004,-80.67262,Yes
+2807528,"January 20, 2024",Florida,Plantation,12301 W Sunrise Blvd,1,3,0,0,0,,26.12815,-80.24516,Yes
+2806941,"January 20, 2024",Pennsylvania,Coraopolis,870 Fourth Ave,1,3,0,0,0,,40.51748,-80.16423,Yes
+2806956,"January 20, 2024",Alabama,Coker,11000 block of Pate Rd,1,3,0,0,3,,33.24934,-87.68554,Yes
+2805327,"January 19, 2024",Maryland,Baltimore,5200 block of Fairlawn Ave,3,1,0,0,1,,39.29058,-76.60926,Yes
+2804280,"January 18, 2024",California,San Francisco,Hyde St and Turk St,1,4,0,0,0,,37.77712,-122.41966,Yes
+2803737,"January 17, 2024",Missouri,Kansas City,2450 Grand Blvd,0,6,0,0,2,,39.10344,-94.58311,Yes
+2804615,"January 17, 2024",Nevada,Las Vegas,200 block of W Chicago Ave,2,2,0,0,0,,36.17193,-115.14001,Yes
+2801431,"January 14, 2024",Pennsylvania,Philadelphia,2400 block of N Myrtlewood St,2,4,0,0,0,,39.95222,-75.16218,Yes
+2801357,"January 14, 2024",Mississippi,West Point,W Half Mile St and N Division St,2,3,0,0,3,,33.60651,-88.65044,Yes
+2801260,"January 14, 2024",Texas,Houston,4400 block of Mooney Rd,0,4,0,0,0,,29.76078,-95.36952,Yes
+2800844,"January 13, 2024",Texas,Richmond,17006 Cory Cornel Ln,4,0,1,0,0,,29.58267,-95.7622,Yes
+2799654,"January 11, 2024",California,Compton,1000 block of Acacia Ave,0,5,0,0,0,,33.89569,-118.22436,Yes
+2798627,"January 9, 2024",Virginia,Portsmouth,3700 block of Greenway Ct E,2,2,0,0,1,,36.83273,-76.29771,Yes
+2796605,"January 7, 2024",Alabama,Abbeville,1600 block of Co Rd 40,0,4,0,0,0,,31.57164,-85.25093,Yes
+2822517,"January 6, 2024",California,Reedley,1151 S Church Ave,4,0,0,0,1,,36.5946,-119.45286,Yes
+2794498,"January 4, 2024",Louisiana,Baton Rouge,6315 Greenwell St,1,5,0,0,0,,30.44335,-91.18664,Yes
+2794194,"January 4, 2024",Iowa,Perry,1200 18th St,2,5,1,0,0,,41.83854,-94.1056,Yes
+2792720,"January 1, 2024",Missouri,Springfield,5485 W Sunshine St,0,4,0,0,1,,37.20897,-93.29159,Yes
+2792829,"January 1, 2024",Louisiana,Baton Rouge,4600 block of W Brookstown Dr,1,3,0,0,3,,30.44335,-91.18664,Yes
+2791411,"January 1, 2024",California,Los Angeles,2350 Porter St,2,8,0,0,0,,34.05357,-118.24545,Yes
+2840907,"January 1, 2024",Illinois,Maywood,1500 block of St Charles Rd,2,2,0,0,1,,41.88796,-87.83922,Yes
